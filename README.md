@@ -1,6 +1,6 @@
 # AI Traveller 🗺️
 
-🚀 **[Live Demo](https://agentic-ai-traveller-mnxaqh4vchmxjxdsxkbegz.streamlit.app/)**
+🚀 **Live Application Link:** **[https://agentic-ai-traveller-mnxaqh4vchmxjxdsxkbegz.streamlit.app/](https://agentic-ai-traveller-mnxaqh4vchmxjxdsxkbegz.streamlit.app/)**
 
 [![Python Version](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green.svg)](https://fastapi.tiangolo.com/)
