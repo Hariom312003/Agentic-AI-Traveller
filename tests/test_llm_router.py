@@ -79,7 +79,7 @@ def patched_router(monkeypatch, tmp_path):
 
 
 def test_uses_first_healthy_provider(patched_router):
-    _StubProvider._behaviors = {"gemini-2.5-flash": ["hello from gemini"]}
+    _StubProvider._behaviors = {patched_router.settings.gemini_model: ["hello from gemini"]}
     response = patched_router.generate("hi")
     assert response.provider == "gemini"
     assert response.text == "hello from gemini"
