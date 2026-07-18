@@ -47,7 +47,7 @@ class Settings(BaseSettings):
         "gemini,groq,openrouter,gemini_backup,groq_backup,openai,anthropic"
     )
 
-    gemini_model: str = "gemini-1.5-flash"
+    gemini_model: str = "gemini-flash-latest"
     groq_model: str = "llama-3.3-70b-versatile"
     openrouter_model: str = "meta-llama/llama-3.3-70b-instruct:free"
     openai_model: str = "gpt-4o-mini"
