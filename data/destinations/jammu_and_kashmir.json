@@ -1,0 +1,292 @@
+{
+  "destination": "jammu and kashmir",
+  "attractions": [
+    {
+      "name": "Dal Lake",
+      "category": "attraction",
+      "description": "The iconic urban lake in Srinagar, famous for its houseboats and floating markets.",
+      "recommended_duration": "Half day",
+      "budget_category": "Moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 34.125,
+      "longitude": 74.855,
+      "address": "Srinagar, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Dal+Lake+Srinagar"
+    },
+    {
+      "name": "Mata Vaishno Devi Shrine",
+      "category": "attraction",
+      "description": "A highly revered Hindu pilgrimage site located in the Trikuta Mountains.",
+      "recommended_duration": "1-2 days",
+      "budget_category": "Low",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 33.031,
+      "longitude": 74.953,
+      "address": "Katra, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Vaishno+Devi+Shrine"
+    },
+    {
+      "name": "Gulmarg Gondola",
+      "category": "attraction",
+      "description": "One of the world's highest cable cars, offering panoramic Himalayan views and skiing.",
+      "recommended_duration": "4-6 hours",
+      "budget_category": "High",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 34.05,
+      "longitude": 74.38,
+      "address": "Gulmarg, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Gulmarg+Gondola"
+    },
+    {
+      "name": "Dachigam National Park",
+      "category": "attraction",
+      "description": "A protected area home to the critically endangered Kashmir stag (Hangul).",
+      "recommended_duration": "Full day",
+      "budget_category": "Moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 34.15,
+      "longitude": 75.03,
+      "address": "Near Srinagar, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Dachigam+National+Park"
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "category": "attraction",
+      "description": "An ancient Hindu temple dedicated to Lord Shiva, overlooking Srinagar city.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Low",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 34.07,
+      "longitude": 74.83,
+      "address": "Shankaracharya Hill, Srinagar",
+      "map_link": "https://www.openstreetmap.org/?query=Shankaracharya+Temple"
+    },
+    {
+      "name": "Nishat Bagh",
+      "category": "attraction",
+      "description": "A beautiful Mughal garden terraced with fountains and flowerbeds overlooking Dal Lake.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Low",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 34.12,
+      "longitude": 74.88,
+      "address": "Srinagar, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Nishat+Bagh"
+    },
+    {
+      "name": "Bahú Fort",
+      "category": "attraction",
+      "description": "A historic fort in Jammu city overlooking the Tawi River, featuring a temple dedicated to Goddess Kali.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Low",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 32.72,
+      "longitude": 74.88,
+      "address": "Jammu, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Bahu+Fort+Jammu"
+    },
+    {
+      "name": "Kishtwar National Park",
+      "category": "attraction",
+      "description": "Rugged terrain known for high-altitude wildlife including the Himalayan Snowcock.",
+      "recommended_duration": "2-3 days",
+      "budget_category": "High",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 33.5,
+      "longitude": 75.8,
+      "address": "Kishtwar District, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Kishtwar+National+Park"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Ahdoos",
+      "category": "food",
+      "description": "Famous for authentic Kashmiri Wazwan and traditional cuisine in Srinagar.",
+      "recommended_duration": null,
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 34.07,
+      "longitude": 74.81,
+      "address": "Residency Road, Srinagar",
+      "map_link": "https://www.openstreetmap.org/?query=Ahdoos+Srinagar"
+    },
+    {
+      "name": "Mughal Darbar",
+      "category": "food",
+      "description": "Renowned for its traditional multi-course Wazwan feasts.",
+      "recommended_duration": null,
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 34.07,
+      "longitude": 74.81,
+      "address": "Residency Road, Srinagar",
+      "map_link": "https://www.openstreetmap.org/?query=Mughal+Darbar+Srinagar"
+    },
+    {
+      "name": "Falaks",
+      "category": "food",
+      "description": "Offers panoramic views of Jammu city with a mix of Indian and Continental dishes.",
+      "recommended_duration": null,
+      "budget_category": "High",
+      "tags": [],
+      "latitude": 32.73,
+      "longitude": 74.86,
+      "address": "Hotel K C Residency, Jammu",
+      "map_link": "https://www.openstreetmap.org/?query=Falaks+Jammu"
+    },
+    {
+      "name": "Pahalwan Di Hatti",
+      "category": "food",
+      "description": "A legendary spot in Jammu for local snacks like Kaladi Kulcha.",
+      "recommended_duration": null,
+      "budget_category": "Low",
+      "tags": [],
+      "latitude": 32.72,
+      "longitude": 74.85,
+      "address": "Gandhi Nagar, Jammu",
+      "map_link": "https://www.openstreetmap.org/?query=Pahalwan+Di+Hatti+Jammu"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Doodhpathri",
+      "category": "attraction",
+      "description": "A serene, offbeat meadow often called the 'Valley of Milk', perfect for trekking.",
+      "recommended_duration": "Full day",
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 33.95,
+      "longitude": 74.65,
+      "address": "Budgam District, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Doodhpathri"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Srinagar Houseboat Decks",
+      "category": "nightlife",
+      "description": "Evening relaxation on the deck of a houseboat on Dal Lake is the primary 'nightlife' experience.",
+      "recommended_duration": "Evening",
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 34.12,
+      "longitude": 74.85,
+      "address": "Dal Lake, Srinagar",
+      "map_link": "https://www.openstreetmap.org/?query=Dal+Lake+Houseboats"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Lal Chowk",
+      "category": "shopping",
+      "description": "The bustling heart of Srinagar, ideal for buying Pashmina shawls and papier-mâché.",
+      "recommended_duration": null,
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 34.07,
+      "longitude": 74.81,
+      "address": "Srinagar, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Lal+Chowk+Srinagar"
+    },
+    {
+      "name": "Raghunath Bazaar",
+      "category": "shopping",
+      "description": "Famous for dry fruits, saffron, and traditional Dogra handicrafts in Jammu.",
+      "recommended_duration": null,
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 32.73,
+      "longitude": 74.86,
+      "address": "Jammu, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Raghunath+Bazaar+Jammu"
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Navratri",
+      "category": "festival",
+      "description": "Celebrated with great fervor, especially in the Jammu region near the Vaishno Devi shrine.",
+      "best_time": "September/October",
+      "tags": [
+        "Religious",
+        "Cultural"
+      ]
+    },
+    {
+      "name": "Lohri",
+      "category": "festival",
+      "description": "A popular harvest festival celebrated with traditional folk dances in Jammu.",
+      "best_time": "January",
+      "tags": [
+        "Cultural",
+        "Harvest"
+      ]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Trekking in Pahalgam",
+      "category": "adventure",
+      "description": "Explore the various mountain trails starting from Pahalgam, including the route to Amarnath.",
+      "recommended_duration": "2-5 days",
+      "budget_category": "Moderate",
+      "tags": [
+        "Trekking",
+        "Nature"
+      ],
+      "latitude": 34.01,
+      "longitude": 75.33,
+      "address": "Pahalgam, Jammu and Kashmir",
+      "map_link": "https://www.openstreetmap.org/?query=Pahalgam"
+    }
+  ],
+  "local_tips": [
+    "Always carry a valid photo ID as security checks are frequent.",
+    "Try the local Kahwa tea, a saffron-infused drink, to stay warm.",
+    "Respect local customs when visiting religious shrines by dressing modestly.",
+    "Check road conditions for the Jammu-Srinagar highway before traveling, especially in winter."
+  ],
+  "safety": {
+    "general": "The security situation can be volatile. Monitor local news and government advisories closely.",
+    "water_safety": "Drink only bottled or purified water.",
+    "transport_safety": "Avoid night travel on mountain roads due to landslides and poor visibility."
+  },
+  "culture": {
+    "overview": "A blend of Sufi, Hindu, and Central Asian influences with a strong tradition of hospitality.",
+    "etiquette": "Remove shoes before entering shrines and homes. Ask permission before taking photos of locals or military installations."
+  },
+  "transport": {
+    "getting_around": "Taxis and local buses are the primary modes of transport. Hiring a local driver for mountain routes is recommended.",
+    "airport": "Srinagar International Airport (SXR) and Jammu Airport (IXJ)."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "No visa required; valid government photo ID is mandatory.",
+    "foreign_nationals": "Valid passport and Indian visa required. Some areas may require a Protected Area Permit."
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": "1800-180-7162"
+  },
+  "weather": {
+    "best_time_to_visit": "April to October for pleasant weather; December to February for snow sports.",
+    "avoid": "Late monsoon (July-August) due to potential landslides."
+  }
+}

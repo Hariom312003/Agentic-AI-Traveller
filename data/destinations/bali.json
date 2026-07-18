@@ -1,0 +1,231 @@
+{
+  "destination": "Bali",
+  "attractions": [
+    {
+      "name": "Uluwatu Temple",
+      "category": "culture",
+      "description": "A dramatic sea temple perched on a cliff edge on Bali's southern tip, famous for sunset views and evening Kecak fire dance performances.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Low-cost entry",
+      "best_time": "Late afternoon into sunset",
+      "transport_tips": "Best reached by car/scooter from Seminyak or Kuta (~45-60 min)",
+      "tags": ["temple", "sunset", "cultural show"]
+    },
+    {
+      "name": "Tanah Lot Temple",
+      "category": "culture",
+      "description": "One of Bali's most photographed temples, sitting on a rock formation just offshore, especially striking at low tide and sunset.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Low-cost entry",
+      "best_time": "Sunset",
+      "transport_tips": "~1 hour from Seminyak/Canggu",
+      "tags": ["temple", "sunset", "photography"]
+    },
+    {
+      "name": "Tegallalang Rice Terraces",
+      "category": "nature",
+      "description": "Iconic stepped emerald-green rice paddies near Ubud, using the traditional Balinese 'subak' irrigation system.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Low-cost donation entry",
+      "best_time": "Morning",
+      "transport_tips": "15-20 min from central Ubud",
+      "tags": ["nature", "photography", "rice terraces"]
+    },
+    {
+      "name": "Sacred Monkey Forest Sanctuary, Ubud",
+      "category": "nature",
+      "description": "A forested sanctuary and temple complex in central Ubud, home to hundreds of long-tailed macaques roaming freely among ancient stone temples.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Low-cost entry",
+      "best_time": "Morning",
+      "transport_tips": "Walking distance from central Ubud",
+      "tags": ["wildlife", "temple", "nature"]
+    },
+    {
+      "name": "Tirta Empul Temple",
+      "category": "culture",
+      "description": "A holy spring water temple near Tampaksiring where Balinese Hindus and visitors take part in a ritual purification bathing ceremony.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Low-cost entry (sarong rental included)",
+      "best_time": "Morning, before tour groups arrive",
+      "transport_tips": "~30-40 min from Ubud",
+      "tags": ["temple", "ritual", "spiritual"]
+    },
+    {
+      "name": "Mount Batur Sunrise Trek",
+      "category": "adventure",
+      "description": "A pre-dawn guided hike up an active volcano to watch sunrise over Lake Batur and neighbouring Mount Agung.",
+      "recommended_duration": "4-5 hours (starts ~2-3am)",
+      "budget_category": "Mid-range (guide required)",
+      "best_time": "Dry season (Apr-Oct) for clearer views",
+      "transport_tips": "Guided tours include hotel pickup from Ubud",
+      "tags": ["hiking", "sunrise", "volcano"]
+    },
+    {
+      "name": "Nusa Penida Day Trip",
+      "category": "nature",
+      "description": "A rugged island a fast boat ride from Bali, famous for the Kelingking Beach cliff viewpoint, Angel's Billabong, and Broken Beach.",
+      "recommended_duration": "Full day",
+      "budget_category": "Mid-range (boat + tour)",
+      "best_time": "Dry season, calm seas",
+      "transport_tips": "Fast boats depart from Sanur; book a guided island tour as roads are rough",
+      "tags": ["island", "cliffs", "day trip"]
+    },
+    {
+      "name": "Seminyak & Kuta Beaches",
+      "category": "attraction",
+      "description": "Bali's most developed beach strip, popular for surfing lessons, beach clubs, and dramatic sunsets.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Free (beach clubs extra)",
+      "best_time": "Late afternoon",
+      "transport_tips": "Well connected by taxi/scooter across South Bali",
+      "tags": ["beach", "surfing", "sunset"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Locavore, Ubud",
+      "category": "food",
+      "description": "An internationally acclaimed fine-dining restaurant championing modern Indonesian cuisine using hyper-local ingredients — book weeks ahead.",
+      "recommended_duration": "2-2.5 hours",
+      "budget_category": "High",
+      "tags": ["fine dining", "tasting menu"]
+    },
+    {
+      "name": "Warung Babi Guling Ibu Oka, Ubud",
+      "category": "food",
+      "description": "A famous local warung serving Bali's signature suckling pig dish, babi guling, in a simple, authentic setting.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "Budget",
+      "tags": ["local food", "balinese cuisine"]
+    },
+    {
+      "name": "La Brisa, Canggu",
+      "category": "food",
+      "description": "A boat-shaped beach club and restaurant in Canggu known for sunset views, cocktails, and a laid-back beach vibe.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Mid-range to high",
+      "tags": ["beach club", "sunset", "cocktails"]
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Sidemen Valley",
+      "category": "nature",
+      "description": "A quiet valley of rice terraces and mountain views east of Ubud, far less touristy than Tegallalang, popular for slow travel and gentle walks.",
+      "recommended_duration": "Half day",
+      "budget_category": "Budget",
+      "tags": ["offbeat", "rice terraces", "nature"]
+    },
+    {
+      "name": "Gitgit Waterfall, North Bali",
+      "category": "nature",
+      "description": "A tall jungle waterfall near Singaraja, considerably quieter than the waterfalls closer to Ubud.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Low-cost entry",
+      "tags": ["waterfall", "offbeat", "trek"]
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Canggu Beach Clubs",
+      "category": "nightlife",
+      "description": "Canggu's beachfront clubs (Old Man's, Finns) combine surf culture with sunset DJ sets and a young, international crowd.",
+      "recommended_duration": "2-4 hours",
+      "budget_category": "Mid-range",
+      "tags": ["beach club", "surf culture", "djs"]
+    },
+    {
+      "name": "Sky Garden, Kuta",
+      "category": "nightlife",
+      "description": "A multi-level nightclub complex in Kuta, one of Bali's longest-running large-scale party venues.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range",
+      "tags": ["clubbing", "party"]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Ubud Art Market",
+      "category": "shopping",
+      "description": "A bustling market for Balinese handicrafts, sarongs, wood carvings, and souvenirs — bargaining is expected.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Budget",
+      "tags": ["market", "handicrafts", "souvenirs"]
+    },
+    {
+      "name": "Seminyak Boutiques",
+      "category": "shopping",
+      "description": "Seminyak's Jalan Kayu Aya (Eat Street) area is lined with designer boutiques, homeware stores, and concept shops.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Mid-range to high",
+      "tags": ["boutique", "fashion"]
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Nyepi (Day of Silence)",
+      "category": "festival",
+      "description": "Bali's Hindu New Year, observed as a full day of island-wide silence — no travel, lights, or activity outdoors, preceded by vibrant Ogoh-ogoh effigy parades the night before.",
+      "best_time": "March (dates follow the Balinese Saka calendar)",
+      "tags": ["nyepi", "cultural", "unique"]
+    },
+    {
+      "name": "Galungan & Kuningan",
+      "category": "festival",
+      "description": "A major Balinese Hindu holiday celebrating the triumph of good over evil, marked with tall bamboo penjor decorations lining the streets.",
+      "best_time": "Occurs every 210 days on the Balinese pawukon calendar",
+      "tags": ["cultural", "decorations", "temple ceremonies"]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Surfing Lessons, Canggu/Kuta",
+      "category": "adventure",
+      "description": "Beginner-friendly surf breaks with numerous surf schools offering lessons along Canggu and Kuta beaches.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Mid-range",
+      "tags": ["surfing", "beach", "beginner friendly"]
+    },
+    {
+      "name": "White-water Rafting, Ayung River",
+      "category": "adventure",
+      "description": "Rapids rafting through jungle scenery on the Ayung river near Ubud, suitable for beginners.",
+      "recommended_duration": "Half day",
+      "budget_category": "Mid-range",
+      "tags": ["rafting", "river", "jungle"]
+    }
+  ],
+  "local_tips": [
+    "Rent a scooter for flexibility, but Bali traffic can be chaotic — an international driving permit is technically required and increasingly enforced.",
+    "Dress with a sarong and sash when entering temples; many temples provide rentals at the entrance.",
+    "South Bali (Seminyak, Canggu, Kuta) is beach/nightlife-focused; Ubud is cultural and jungle-focused — many itineraries split time between both.",
+    "Bali observes Nyepi (Day of Silence) once a year, during which the entire island, including the airport, shuts down for 24 hours — check dates if travelling in March."
+  ],
+  "safety": {
+    "general": "Bali is generally safe for tourists, but scooter accidents are the most common cause of tourist injury — wear a helmet and drive cautiously.",
+    "water_safety": "Ocean currents at popular surf beaches can be strong; swim at flagged, patrolled areas where available.",
+    "belly_safety": "Drink bottled or filtered water and be cautious with street-food ice to avoid stomach upsets."
+  },
+  "culture": {
+    "overview": "Bali is a Hindu-majority island within Muslim-majority Indonesia, with daily life woven through temple ceremonies, offerings (canang sari), and a strong communal 'banjar' social structure.",
+    "etiquette": "Dress modestly at temples (sarong required), never step over offerings placed on the ground, and use your right hand for giving/receiving."
+  },
+  "transport": {
+    "getting_around": "Scooters and app-based ride-hailing (Gojek/Grab) are the most flexible options; traffic in South Bali can be heavy, especially Canggu-Seminyak-Kuta.",
+    "airport": "Ngurah Rai International Airport (DPS) near Kuta serves the whole island."
+  },
+  "visa_information": {
+    "indian_passport_holders": "Indonesia offers a Visa on Arrival (VOA) for Indian citizens, payable on entry or in advance online (e-VOA), valid for a set short-stay period and extendable once.",
+    "general": "Many nationalities are eligible for visa-free or visa-on-arrival entry to Indonesia for short tourist stays — check current rules before travel."
+  },
+  "emergency_contacts": {
+    "police": "110",
+    "ambulance": "118 or 119",
+    "tourist_police_bali": "+62 361 224111 (Bali Tourism Police, Kuta)"
+  },
+  "weather": {
+    "best_time_to_visit": "April to October (dry season)",
+    "avoid": "January-February (peak wet season with heavy rain and rougher seas)"
+  }
+}

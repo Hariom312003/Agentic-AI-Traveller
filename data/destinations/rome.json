@@ -1,0 +1,290 @@
+{
+  "destination": "Rome",
+  "attractions": [
+    {
+      "name": "Colosseum",
+      "category": "attraction",
+      "description": "The iconic Flavian Amphitheatre, the largest ancient amphitheatre ever built.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "High",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "landmark",
+        "ancient"
+      ],
+      "latitude": 41.8902,
+      "longitude": 12.4922,
+      "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776615"
+    },
+    {
+      "name": "Roman Forum",
+      "category": "attraction",
+      "description": "The sprawling ruins of the heart of the ancient Roman Empire.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Medium",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "ruins"
+      ],
+      "latitude": 41.8925,
+      "longitude": 12.4853,
+      "address": "Largo della Salara Vecchia, 5/6, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/way/24434241"
+    },
+    {
+      "name": "St. Peter's Basilica",
+      "category": "attraction",
+      "description": "A masterpiece of Renaissance architecture and the center of the Catholic world.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "religion",
+        "architecture",
+        "vatican"
+      ],
+      "latitude": 41.9022,
+      "longitude": 12.4539,
+      "address": "Piazza San Pietro, 00120 Città del Vaticano",
+      "map_link": "https://www.openstreetmap.org/node/35776608"
+    },
+    {
+      "name": "Pantheon",
+      "category": "attraction",
+      "description": "A former Roman temple, now a church, famous for its massive unreinforced concrete dome.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Medium",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "latitude": 41.8986,
+      "longitude": 12.4769,
+      "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776609"
+    },
+    {
+      "name": "Trevi Fountain",
+      "category": "attraction",
+      "description": "The largest Baroque fountain in the city and one of the most famous in the world.",
+      "recommended_duration": "30 minutes",
+      "budget_category": "Free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "landmark",
+        "art"
+      ],
+      "latitude": 41.9009,
+      "longitude": 12.4833,
+      "address": "Piazza di Trevi, 00187 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776613"
+    },
+    {
+      "name": "Castel Sant'Angelo",
+      "category": "attraction",
+      "description": "A towering cylindrical fortress originally built as a mausoleum for Emperor Hadrian.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Medium",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "museum"
+      ],
+      "latitude": 41.9031,
+      "longitude": 12.4663,
+      "address": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776611"
+    },
+    {
+      "name": "Piazza Navona",
+      "category": "attraction",
+      "description": "A grand square built on the site of the Stadium of Domitian, featuring Bernini's Fountain of the Four Rivers.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "landmark",
+        "square"
+      ],
+      "latitude": 41.8992,
+      "longitude": 12.4731,
+      "address": "Piazza Navona, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/way/24434246"
+    },
+    {
+      "name": "Spanish Steps",
+      "category": "attraction",
+      "description": "A monumental stairway of 135 steps climbing a steep slope between the Piazza di Spagna and Piazza Trinità dei Monti.",
+      "recommended_duration": "30 minutes",
+      "budget_category": "Free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "landmark",
+        "architecture"
+      ],
+      "latitude": 41.9058,
+      "longitude": 12.4823,
+      "address": "Piazza di Spagna, 00187 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776614"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Roscioli Salumeria con Cucina",
+      "category": "food",
+      "description": "A legendary deli and restaurant known for its carbonara and extensive wine list.",
+      "recommended_duration": null,
+      "budget_category": "High",
+      "tags": [
+        "italian",
+        "pasta"
+      ],
+      "latitude": 41.8946,
+      "longitude": 12.4735,
+      "address": "Via dei Giubbonari, 21, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/26849302"
+    },
+    {
+      "name": "Da Enzo al 29",
+      "category": "food",
+      "description": "A tiny, authentic trattoria in Trastevere famous for classic Roman dishes.",
+      "recommended_duration": null,
+      "budget_category": "Medium",
+      "tags": [
+        "trattoria",
+        "local"
+      ],
+      "latitude": 41.8875,
+      "longitude": 12.4785,
+      "address": "Via dei Vascellari, 29, 00153 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776620"
+    },
+    {
+      "name": "Armando al Pantheon",
+      "category": "food",
+      "description": "Historic restaurant serving traditional Roman cuisine right next to the Pantheon.",
+      "recommended_duration": null,
+      "budget_category": "High",
+      "tags": [
+        "traditional",
+        "fine-dining"
+      ],
+      "latitude": 41.8988,
+      "longitude": 12.4765,
+      "address": "Salita de' Crescenzi, 31, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776621"
+    },
+    {
+      "name": "Pizzeria da Baffetto",
+      "category": "food",
+      "description": "Famous for thin-crust Roman-style pizza in a bustling, no-frills setting.",
+      "recommended_duration": null,
+      "budget_category": "Low",
+      "tags": [
+        "pizza",
+        "casual"
+      ],
+      "latitude": 41.8975,
+      "longitude": 12.4725,
+      "address": "Via del Governo Vecchio, 114, 00186 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776622"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Capuchin Crypt",
+      "category": "attraction",
+      "description": "A macabre yet fascinating series of small chapels decorated with the bones of 4,000 friars.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "Medium",
+      "tags": [
+        "history",
+        "unique"
+      ],
+      "latitude": 41.9045,
+      "longitude": 12.4875,
+      "address": "Via Vittorio Veneto, 27, 00187 Roma RM, Italy",
+      "map_link": "https://www.openstreetmap.org/node/35776630"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Trastevere District",
+      "category": "nightlife",
+      "description": "The heart of Rome's nightlife, filled with narrow cobblestone streets, bars, and pubs.",
+      "recommended_duration": "All night",
+      "budget_category": "Medium",
+      "tags": [
+        "bars",
+        "social"
+      ],
+      "latitude": 41.8885,
+      "longitude": 12.4735,
+      "address": "Trastevere, Rome, Italy",
+      "map_link": "https://www.openstreetmap.org/relation/2702759"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Via del Corso",
+      "category": "shopping",
+      "description": "The main shopping street in Rome, featuring high-street brands and department stores.",
+      "recommended_duration": "3 hours",
+      "budget_category": "Medium",
+      "tags": [
+        "fashion",
+        "shopping"
+      ],
+      "latitude": 41.9025,
+      "longitude": 12.4795,
+      "address": "Via del Corso, Rome, Italy",
+      "map_link": "https://www.openstreetmap.org/way/24434250"
+    }
+  ],
+  "festivals": [],
+  "adventure_activities": [],
+  "local_tips": [
+    "Always carry a reusable water bottle; Rome is full of 'nasoni' (drinking fountains) with free, cold, high-quality water.",
+    "Validate your bus or tram ticket immediately upon boarding to avoid hefty fines.",
+    "Avoid eating at restaurants with 'tourist menus' or pictures of food outside; stick to small, crowded trattorias.",
+    "August is the month when many locals go on vacation; expect some smaller family-run shops to be closed."
+  ],
+  "safety": {
+    "general": "Rome is generally safe, but be extremely vigilant against pickpockets in crowded tourist areas like the Colosseum, Termini station, and on public transport.",
+    "water_safety": "Tap water is safe and delicious throughout the city.",
+    "transport_safety": "Be cautious of unlicensed taxis; always use official white taxis with a meter."
+  },
+  "culture": {
+    "overview": "Rome is a blend of ancient history and modern 'La Dolce Vita'.",
+    "etiquette": "Dress modestly when entering churches (shoulders and knees covered). Tipping is not mandatory but rounding up the bill is appreciated."
+  },
+  "transport": {
+    "getting_around": "The historic center is best explored on foot. For longer distances, use the Metro (Lines A and B) or the extensive bus network.",
+    "airport": "Leonardo da Vinci-Fiumicino (FCO) is the main hub, connected by the Leonardo Express train to Termini station."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": null,
+    "foreign_nationals": "Italy is part of the Schengen Area. Check your local embassy for visa requirements based on your nationality."
+  },
+  "emergency_contacts": {
+    "police": "112",
+    "ambulance": "118",
+    "tourist_police_helpline": null
+  },
+  "weather": {
+    "best_time_to_visit": "Spring (April-May) and Autumn (September-October) offer the most pleasant temperatures for walking.",
+    "avoid": "August, as it is extremely hot and many local businesses close for the summer holidays."
+  }
+}

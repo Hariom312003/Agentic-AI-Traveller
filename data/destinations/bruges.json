@@ -1,0 +1,238 @@
+{
+  "destination": "Bruges",
+  "attractions": [
+    {
+      "name": "Belfry of Bruges",
+      "category": "attraction",
+      "description": "Iconic medieval bell tower offering panoramic views of the city.",
+      "recommended_duration": "1-2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2079,
+      "longitude": 3.2245,
+      "address": "Markt 7, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666355"
+    },
+    {
+      "name": "Basilica of the Holy Blood",
+      "category": "attraction",
+      "description": "A 12th-century basilica housing a relic of the Holy Blood.",
+      "recommended_duration": "30-45 minutes",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2085,
+      "longitude": 3.2265,
+      "address": "Burg 13, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666358"
+    },
+    {
+      "name": "Groeningemuseum",
+      "category": "attraction",
+      "description": "Famous for its collection of Flemish Primitive paintings.",
+      "recommended_duration": "2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2055,
+      "longitude": 3.2278,
+      "address": "Dijver 12, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666362"
+    },
+    {
+      "name": "Church of Our Lady",
+      "category": "attraction",
+      "description": "Home to Michelangelo's 'Madonna and Child' sculpture.",
+      "recommended_duration": "1 hour",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2038,
+      "longitude": 3.2248,
+      "address": "Mariastraat, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666365"
+    },
+    {
+      "name": "Minnewater Lake",
+      "category": "attraction",
+      "description": "Also known as the 'Lake of Love', a romantic park area.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.1985,
+      "longitude": 3.2242,
+      "address": "Minnewater, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666370"
+    },
+    {
+      "name": "Begijnhof",
+      "category": "attraction",
+      "description": "A serene 13th-century convent with white-washed houses.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2015,
+      "longitude": 3.2235,
+      "address": "Begijnhof, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666375"
+    },
+    {
+      "name": "Historium Brugge",
+      "category": "attraction",
+      "description": "Immersive historical experience located on the Markt.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2088,
+      "longitude": 3.2238,
+      "address": "Markt 1, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666380"
+    },
+    {
+      "name": "Choco-Story",
+      "category": "attraction",
+      "description": "Museum dedicated to the history and production of Belgian chocolate.",
+      "recommended_duration": "1-2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 51.2105,
+      "longitude": 3.2248,
+      "address": "Wijnzakstraat 2, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666385"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "De Halve Maan",
+      "category": "food",
+      "description": "Historic brewery and restaurant serving traditional Flemish stew.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": 51.2032,
+      "longitude": 3.2225,
+      "address": "Walplein 26, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666400"
+    },
+    {
+      "name": "Park Restaurant",
+      "category": "food",
+      "description": "Fine dining in a beautiful 18th-century mansion.",
+      "recommended_duration": null,
+      "budget_category": "expensive",
+      "tags": [],
+      "latitude": 51.2012,
+      "longitude": 3.2255,
+      "address": "Begijnenvest 21, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666405"
+    },
+    {
+      "name": "Bistro Bruut",
+      "category": "food",
+      "description": "Modern bistro focusing on seasonal, local ingredients.",
+      "recommended_duration": null,
+      "budget_category": "expensive",
+      "tags": [],
+      "latitude": 51.2065,
+      "longitude": 3.2295,
+      "address": "Meestraat 12, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666410"
+    },
+    {
+      "name": "Soup",
+      "category": "food",
+      "description": "Casual spot for quick, healthy, and delicious soups.",
+      "recommended_duration": null,
+      "budget_category": "cheap",
+      "tags": [],
+      "latitude": 51.2092,
+      "longitude": 3.2222,
+      "address": "Langestraat 97, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666415"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Bonifacius Bridge",
+      "category": "attraction",
+      "description": "A picturesque, hidden stone bridge offering one of the best views in the city.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 51.2042,
+      "longitude": 3.2252,
+      "address": "Bonifaciusbrug, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666500"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "'t Brugs Beertje",
+      "category": "nightlife",
+      "description": "Legendary beer café with hundreds of Belgian varieties.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 51.2062,
+      "longitude": 3.2215,
+      "address": "Kemelstraat 5, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666600"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Steenstraat",
+      "category": "shopping",
+      "description": "The main shopping street featuring high-end boutiques and local shops.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 51.2072,
+      "longitude": 3.2228,
+      "address": "Steenstraat, 8000 Brugge, Belgium",
+      "map_link": "https://www.openstreetmap.org/node/28666700"
+    }
+  ],
+  "festivals": [],
+  "adventure_activities": [],
+  "local_tips": [],
+  "safety": {
+    "general": "Bruges is very safe, but watch for pickpockets in crowded tourist areas like the Markt.",
+    "water_safety": null,
+    "transport_safety": null
+  },
+  "culture": {
+    "overview": "Bruges is a UNESCO World Heritage site known for its medieval architecture and canals.",
+    "etiquette": "Tipping is not mandatory but rounding up the bill is appreciated."
+  },
+  "transport": {
+    "getting_around": "The city center is best explored on foot or by bicycle.",
+    "airport": null
+  },
+  "visa_information": {
+    "domestic_indian_travellers": null,
+    "foreign_nationals": null
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": null
+  },
+  "weather": {
+    "best_time_to_visit": "May to September for pleasant weather.",
+    "avoid": null
+  }
+}

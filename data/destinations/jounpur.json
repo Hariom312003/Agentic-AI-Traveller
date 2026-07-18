@@ -1,0 +1,315 @@
+{
+  "destination": "jounpur",
+  "attractions": [
+    {
+      "name": "Atala Masjid",
+      "category": "attraction",
+      "description": "A 14th-century mosque known for its massive pylon-style architecture and intricate carvings.",
+      "recommended_duration": "1-2 hours",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "architecture",
+        "religious"
+      ],
+      "latitude": 25.7485,
+      "longitude": 82.6756,
+      "address": "Atala, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257485,826756"
+    },
+    {
+      "name": "Jaunpur Fort",
+      "category": "attraction",
+      "description": "An ancient fort built by Feroz Shah Tughlaq, offering panoramic views of the Gomti River.",
+      "recommended_duration": "2 hours",
+      "budget_category": "low",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "fort",
+        "views"
+      ],
+      "latitude": 25.7531,
+      "longitude": 82.6812,
+      "address": "Shahi Qila, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257531,826812"
+    },
+    {
+      "name": "Shahi Bridge",
+      "category": "attraction",
+      "description": "A historic 16th-century stone bridge built over the Gomti River by Munim Khan.",
+      "recommended_duration": "30 minutes",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "landmark",
+        "architecture"
+      ],
+      "latitude": 25.7522,
+      "longitude": 82.6825,
+      "address": "Gomti River, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257522,826825"
+    },
+    {
+      "name": "Jama Masjid",
+      "category": "attraction",
+      "description": "Also known as Bari Masjid, this is one of the largest and most impressive mosques in the region.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "religious",
+        "history"
+      ],
+      "latitude": 25.7458,
+      "longitude": 82.6789,
+      "address": "Jama Masjid Rd, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257458,826789"
+    },
+    {
+      "name": "Lal Darwaza Masjid",
+      "category": "attraction",
+      "description": "A smaller but architecturally significant mosque built by the wife of Sultan Mahmud Sharqi.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "latitude": 25.7421,
+      "longitude": 82.6712,
+      "address": "Lal Darwaza, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257421,826712"
+    },
+    {
+      "name": "Khalis Mukhlis Masjid",
+      "category": "attraction",
+      "description": "A mosque dating back to the Tughlaq era, known for its simple yet elegant design.",
+      "recommended_duration": "30 minutes",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "history"
+      ],
+      "latitude": 25.7492,
+      "longitude": 82.6734,
+      "address": "Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257492,826734"
+    },
+    {
+      "name": "Sheetla Chaukiya Dham",
+      "category": "attraction",
+      "description": "A prominent Hindu temple dedicated to Goddess Sheetla, attracting many pilgrims.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "religious",
+        "temple"
+      ],
+      "latitude": 25.7654,
+      "longitude": 82.6987,
+      "address": "Chaukiya, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/257654,826987"
+    },
+    {
+      "name": "Trilochan Mahadev Temple",
+      "category": "attraction",
+      "description": "An ancient Shiva temple located on the outskirts, known for its spiritual significance.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "religious",
+        "temple"
+      ],
+      "latitude": 25.8123,
+      "longitude": 82.5543,
+      "address": "Trilochan, Jaunpur, Uttar Pradesh",
+      "map_link": "https://www.openstreetmap.org/node/258123,825543"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Hotel River View Restaurant",
+      "category": "food",
+      "description": "Offers a mix of North Indian and local delicacies with a view of the river.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "dining",
+        "local food"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    },
+    {
+      "name": "Shahi Restaurant",
+      "category": "food",
+      "description": "Popular for traditional Mughlai dishes and kebabs.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "mughlai",
+        "dinner"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    },
+    {
+      "name": "Bikaner Sweets & Restaurant",
+      "category": "food",
+      "description": "Great for quick snacks, chaat, and traditional Indian sweets.",
+      "recommended_duration": null,
+      "budget_category": "low",
+      "tags": [
+        "snacks",
+        "vegetarian"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    },
+    {
+      "name": "New Zaika Restaurant",
+      "category": "food",
+      "description": "A local favorite for biryani and non-vegetarian curries.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "biryani",
+        "lunch"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Jhanjhari Masjid",
+      "category": "attraction",
+      "description": "The ruins of a mosque that showcase the unique Sharqi architectural style in a quiet setting.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [
+        "ruins",
+        "history"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Jaunpur City Center",
+      "category": "nightlife",
+      "description": "The area around the main market stays lively in the evening with street food vendors and local tea stalls.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [
+        "local life",
+        "street food"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Jaunpur Main Market",
+      "category": "shopping",
+      "description": "Ideal for purchasing local textiles, traditional handicrafts, and spices.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [
+        "shopping",
+        "local market"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Imambara Processions",
+      "category": "festival",
+      "description": "Significant religious processions held during Muharram.",
+      "best_time": null,
+      "tags": [
+        "cultural",
+        "religious"
+      ]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Gomti Riverbank Walk",
+      "category": "adventure",
+      "description": "A peaceful walk along the riverbanks near the Shahi Bridge.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [
+        "walking",
+        "nature"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "address": null,
+      "map_link": null
+    }
+  ],
+  "local_tips": [
+    "Try the local 'Imarti' sweet, which is a specialty of Jaunpur.",
+    "Hire an auto-rickshaw for the day to visit the scattered historical monuments.",
+    "Dress modestly when visiting mosques and temples."
+  ],
+  "safety": {
+    "general": "Jaunpur is generally safe, but avoid isolated areas after dark.",
+    "water_safety": "Drink only bottled or purified water.",
+    "transport_safety": "Use registered auto-rickshaws and agree on the fare beforehand."
+  },
+  "culture": {
+    "overview": "Jaunpur has a rich history as a center of Islamic learning and culture under the Sharqi dynasty.",
+    "etiquette": "Always remove footwear before entering religious sites and cover your head in mosques."
+  },
+  "transport": {
+    "getting_around": "Auto-rickshaws and cycle-rickshaws are the primary modes of transport within the city.",
+    "airport": "The nearest airport is Lal Bahadur Shastri International Airport in Varanasi (approx. 40km away)."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "No visa required; valid government ID is recommended for hotel check-ins.",
+    "foreign_nationals": "Valid Indian visa and passport required."
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": null
+  },
+  "weather": {
+    "best_time_to_visit": "October to March, when the weather is cool and pleasant.",
+    "avoid": "April to June, as temperatures can become extremely hot."
+  }
+}

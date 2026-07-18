@@ -1,0 +1,216 @@
+{
+  "destination": "Manali",
+  "attractions": [
+    {
+      "name": "Solang Valley",
+      "category": "adventure",
+      "description": "A mountain valley near Manali famous for paragliding, zorbing, and cable car rides in summer, and skiing lessons in winter snow.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Mid-range (activities extra)",
+      "best_time": "Morning for clearer skies",
+      "transport_tips": "13 km from Manali, taxi or shared cab",
+      "tags": ["adventure", "paragliding", "snow"]
+    },
+    {
+      "name": "Hidimba Devi Temple",
+      "category": "culture",
+      "description": "A striking wooden pagoda-style temple set in a cedar forest, dedicated to Hidimba from the Mahabharata, built in 1553.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free entry",
+      "best_time": "Morning",
+      "transport_tips": "Short walk from Manali town centre",
+      "tags": ["temple", "history", "forest"]
+    },
+    {
+      "name": "Old Manali",
+      "category": "culture",
+      "description": "A laid-back village across the river from main Manali, known for cafes, backpacker guesthouses, and a bohemian atmosphere with mountain views.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free (café spending extra)",
+      "best_time": "Afternoon/evening",
+      "transport_tips": "15-20 min walk from the Mall Road",
+      "tags": ["cafes", "backpacker", "relaxed"]
+    },
+    {
+      "name": "Rohtang Pass",
+      "category": "nature",
+      "description": "A high mountain pass (~3,978m) offering dramatic snow-capped views and the gateway to Lahaul-Spiti; entry is permit-restricted with a daily vehicle cap and it closes in heavy winter snow.",
+      "recommended_duration": "Full day (incl. travel)",
+      "budget_category": "Mid-range (permit + taxi)",
+      "best_time": "May to October (weather permitting)",
+      "transport_tips": "Requires an online permit booked in advance; shared taxis available from Manali",
+      "tags": ["mountain pass", "snow", "day trip"]
+    },
+    {
+      "name": "Vashisht Village Hot Springs",
+      "category": "culture",
+      "description": "A village known for natural sulphur hot water springs and an ancient stone temple dedicated to sage Vashisht.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Free / nominal bathing fee",
+      "best_time": "Morning",
+      "transport_tips": "3 km from Manali, short taxi ride",
+      "tags": ["hot springs", "temple", "relaxation"]
+    },
+    {
+      "name": "Atal Tunnel",
+      "category": "attraction",
+      "description": "One of the world's longest high-altitude tunnels, connecting the Manali valley to Lahaul, cutting travel time and offering a dramatic drive through the mountain.",
+      "recommended_duration": "2-3 hours (round trip drive)",
+      "budget_category": "Free (fuel/taxi cost only)",
+      "best_time": "Morning",
+      "transport_tips": "Combine with a Sissu waterfall visit on the other side",
+      "tags": ["engineering", "drive", "scenic"]
+    },
+    {
+      "name": "Naggar Castle",
+      "category": "culture",
+      "description": "A 15th-century mud-and-timber castle turned heritage hotel and museum, near the Nicholas Roerich Art Gallery, with valley views.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Low-cost entry",
+      "best_time": "Afternoon",
+      "transport_tips": "~20 km from Manali towards Kullu",
+      "tags": ["heritage", "art", "history"]
+    },
+    {
+      "name": "Jogini Waterfall Trek",
+      "category": "adventure",
+      "description": "A moderate 2-3 km trek from Vashisht village through pine forest to a scenic multi-tier waterfall.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free",
+      "best_time": "Morning",
+      "transport_tips": "Trailhead starts at Vashisht village",
+      "tags": ["trekking", "waterfall", "nature"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Johnson's Cafe, Manali",
+      "category": "food",
+      "description": "A long-standing favourite for trout fish dishes, wood-fired pizza, and a garden seating area.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Mid-range",
+      "tags": ["trout", "continental"]
+    },
+    {
+      "name": "Cafe 1947, Old Manali",
+      "category": "food",
+      "description": "A riverside cafe popular for its Israeli and continental menu and relaxed mountain-view seating.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Mid-range",
+      "tags": ["cafe", "israeli food", "river view"]
+    },
+    {
+      "name": "Chopsticks Restaurant",
+      "category": "food",
+      "description": "A Mall Road institution for Tibetan and Chinese momos, thukpa, and noodle dishes.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Budget",
+      "tags": ["tibetan", "momos"]
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Gulaba Snow Point",
+      "category": "nature",
+      "description": "A quieter, closer alternative to Rohtang Pass for snow views without the permit hassle, especially in early winter.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Mid-range (taxi)",
+      "tags": ["snow", "offbeat", "viewpoint"]
+    },
+    {
+      "name": "Van Vihar National Park",
+      "category": "nature",
+      "description": "A quiet deodar-forest park with a small lake and boating, right by the Mall Road but far less crowded than the main strip.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Low-cost entry",
+      "tags": ["park", "walk", "family"]
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Old Manali Cafe Strip",
+      "category": "nightlife",
+      "description": "Old Manali's riverside cafes double as low-key evening hangouts with live acoustic music in season — Manali's nightlife is cafe-and-bonfire style rather than club-based.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range",
+      "tags": ["cafes", "live music", "relaxed"]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Manali Mall Road",
+      "category": "shopping",
+      "description": "The main shopping street for Kullu shawls, Himachali caps, woollens, and local handicrafts, alongside restaurants and bakeries.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Budget to mid-range",
+      "tags": ["shopping", "woollens", "souvenirs"]
+    },
+    {
+      "name": "Tibetan Market",
+      "category": "shopping",
+      "description": "A market near the bus stand selling woollen jackets, boots, and winter accessories, popular for affordable winter wear.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Budget",
+      "tags": ["winter wear", "bargaining"]
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Manali Winter Carnival",
+      "category": "festival",
+      "description": "A winter festival with skiing competitions, cultural performances, and a carnival atmosphere across the valley.",
+      "best_time": "Early January",
+      "tags": ["winter", "carnival", "culture"]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Paragliding at Solang Valley",
+      "category": "adventure",
+      "description": "Tandem paragliding flights over the Solang valley with certified instructors, weather permitting.",
+      "recommended_duration": "30-45 minutes",
+      "budget_category": "Mid-range",
+      "tags": ["paragliding", "adrenaline"]
+    },
+    {
+      "name": "River Rafting on the Beas",
+      "category": "adventure",
+      "description": "White-water rafting stretches on the Beas river near Kullu, roughly an hour from Manali.",
+      "recommended_duration": "Half day",
+      "budget_category": "Mid-range",
+      "tags": ["rafting", "river", "adrenaline"]
+    }
+  ],
+  "local_tips": [
+    "Rohtang Pass requires an online permit with a daily vehicle quota — book at least a few days ahead in peak season.",
+    "Pack layered warm clothing even in summer; mountain weather changes quickly and evenings are cold year-round.",
+    "Old Manali and main Manali are separated by the Manalsu river — both are walkable but taxis are cheap for the uphill return.",
+    "Mobile network connectivity can be patchy beyond Solang Valley and towards Rohtang."
+  ],
+  "safety": {
+    "general": "Manali is generally safe for tourists, but altitude-related routes (Rohtang, Solang in winter) carry real weather and road risk — check conditions before travelling.",
+    "altitude": "Some visitors feel mild altitude effects above Rohtang; stay hydrated and avoid overexertion on arrival.",
+    "road_safety": "Mountain roads have sharp hairpins and landslide risk in monsoon (Jul-Sep) — avoid non-essential travel during heavy rain."
+  },
+  "culture": {
+    "overview": "Manali sits in the Kullu valley, with a strong Himachali mountain culture, wooden temple architecture, and a large seasonal backpacker/traveller community in Old Manali.",
+    "etiquette": "Dress modestly at temples; ask before photographing local people, especially in smaller villages."
+  },
+  "transport": {
+    "getting_around": "Taxis and shared cabs cover most sightseeing; Old Manali and the Mall Road area are walkable. Bike/scooter rentals are available for more independent exploring.",
+    "access": "Nearest airport is Bhuntar (Kullu-Manali Airport), ~50 km away; most travellers arrive by overnight Volvo bus or taxi from Delhi/Chandigarh."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "No visa needed — valid photo ID required for hotel check-in and for the Rohtang Pass permit.",
+    "foreign_nationals": "Standard Indian visa requirements apply; carry passport copies for permit applications."
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "himachal_tourism_helpline": "1364"
+  },
+  "weather": {
+    "best_time_to_visit": "March-June (pleasant summer) and Dec-Feb (snow), depending on whether you want snow or greenery",
+    "avoid": "Heavy monsoon weeks (Jul-Aug) for landslide risk on mountain roads"
+  }
+}

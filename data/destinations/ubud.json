@@ -1,0 +1,243 @@
+{
+  "destination": "Ubud",
+  "attractions": [
+    {
+      "name": "Sacred Monkey Forest Sanctuary",
+      "category": "attraction",
+      "description": "A nature reserve and temple complex home to hundreds of long-tailed macaques and ancient banyan trees.",
+      "recommended_duration": "2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.5195,
+      "longitude": 115.2591,
+      "address": "Jl. Monkey Forest, Ubud",
+      "map_link": "https://www.openstreetmap.org/node/26543210"
+    },
+    {
+      "name": "Ubud Royal Palace (Puri Saren Agung)",
+      "category": "attraction",
+      "description": "The historic residence of the Ubud royal family, featuring beautiful traditional Balinese architecture.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.5065,
+      "longitude": 115.2625,
+      "address": "Jl. Raya Ubud, Ubud",
+      "map_link": "https://www.openstreetmap.org/node/26543211"
+    },
+    {
+      "name": "Goa Gajah (Elephant Cave)",
+      "category": "attraction",
+      "description": "An 9th-century archaeological site featuring a cave entrance carved into a demon's mouth and ancient bathing pools.",
+      "recommended_duration": "1 hour",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.5256,
+      "longitude": 115.2818,
+      "address": "Jl. Raya Goa Gajah, Bedulu",
+      "map_link": "https://www.openstreetmap.org/node/26543212"
+    },
+    {
+      "name": "Gunung Kawi Temple",
+      "category": "attraction",
+      "description": "A stunning 11th-century temple complex with ten rock-cut shrines carved into the cliff face.",
+      "recommended_duration": "2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.4235,
+      "longitude": 115.3025,
+      "address": "Tampaksiring, Gianyar",
+      "map_link": "https://www.openstreetmap.org/node/26543213"
+    },
+    {
+      "name": "Tirta Empul Temple",
+      "category": "attraction",
+      "description": "A famous Hindu Balinese water temple known for its holy spring water used for ritual purification.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.4167,
+      "longitude": 115.3144,
+      "address": "Jl. Tirta, Manukaya",
+      "map_link": "https://www.openstreetmap.org/node/26543214"
+    },
+    {
+      "name": "Campuhan Ridge Walk",
+      "category": "attraction",
+      "description": "A scenic, paved hiking trail through lush green hills and valleys, perfect for sunrise or sunset.",
+      "recommended_duration": "1 hour",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.5035,
+      "longitude": 115.2536,
+      "address": "Jl. Bangkiang Sidem, Kelusa",
+      "map_link": "https://www.openstreetmap.org/node/26543215"
+    },
+    {
+      "name": "Tegalalang Rice Terrace",
+      "category": "attraction",
+      "description": "Iconic terraced rice paddies offering breathtaking views and traditional irrigation systems.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.4385,
+      "longitude": 115.2715,
+      "address": "Jl. Raya Tegallalang",
+      "map_link": "https://www.openstreetmap.org/node/26543216"
+    },
+    {
+      "name": "Museum Puri Lukisan",
+      "category": "attraction",
+      "description": "The oldest art museum in Ubud, showcasing a vast collection of modern Balinese paintings and woodcarvings.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": -8.5055,
+      "longitude": 115.2605,
+      "address": "Jl. Raya Ubud",
+      "map_link": "https://www.openstreetmap.org/node/26543217"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Locavore",
+      "category": "food",
+      "description": "Renowned fine-dining restaurant focusing on locally sourced, seasonal ingredients.",
+      "recommended_duration": null,
+      "budget_category": "expensive",
+      "tags": [],
+      "latitude": -8.5112,
+      "longitude": 115.2631,
+      "address": "Jl. Dewisita No.10",
+      "map_link": null
+    },
+    {
+      "name": "Naughty Nuri's Ubud",
+      "category": "food",
+      "description": "Famous for its signature pork ribs and vibrant, casual atmosphere.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": -8.4975,
+      "longitude": 115.2532,
+      "address": "Jl. Raya Sanggingan",
+      "map_link": null
+    },
+    {
+      "name": "Clear Cafe",
+      "category": "food",
+      "description": "A unique, health-conscious spot with stunning architecture and a wide range of organic dishes.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": -8.5078,
+      "longitude": 115.2585,
+      "address": "Jl. Hanoman No.8",
+      "map_link": null
+    },
+    {
+      "name": "Warung Makan Bu Rus",
+      "category": "food",
+      "description": "Authentic Balinese home-style cooking served in a beautiful garden setting.",
+      "recommended_duration": null,
+      "budget_category": "cheap",
+      "tags": [],
+      "latitude": -8.5085,
+      "longitude": 115.2612,
+      "address": "Jl. Suweta",
+      "map_link": null
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Pura Dalem Puri Peliatan",
+      "category": "attraction",
+      "description": "A quiet, atmospheric temple often missed by the main tourist crowds, offering a glimpse into local spiritual life.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": -8.5155,
+      "longitude": 115.2685,
+      "address": "Peliatan, Ubud",
+      "map_link": null
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "CP Lounge",
+      "category": "nightlife",
+      "description": "A popular late-night spot with live music, pool tables, and a dance floor.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": -8.5095,
+      "longitude": 115.2628,
+      "address": "Jl. Monkey Forest",
+      "map_link": null
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Ubud Art Market",
+      "category": "shopping",
+      "description": "The central hub for traditional crafts, textiles, and souvenirs.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": -8.5068,
+      "longitude": 115.2622,
+      "address": "Jl. Raya Ubud",
+      "map_link": null
+    }
+  ],
+  "festivals": [],
+  "adventure_activities": [],
+  "local_tips": [
+    "Hire a local driver for a full day to explore temples outside the town center.",
+    "Always carry a sarong in your bag for spontaneous temple visits.",
+    "Traffic in central Ubud is heavy; walking is often faster than taking a car.",
+    "Avoid the peak heat by starting your sightseeing early in the morning."
+  ],
+  "safety": {
+    "general": "Ubud is generally safe, but be cautious of pickpockets in crowded markets.",
+    "water_safety": "Do not drink tap water; use bottled or filtered water.",
+    "transport_safety": "Be careful when walking on narrow roads with heavy motorbike traffic."
+  },
+  "culture": {
+    "overview": "Ubud is the cultural heart of Bali, deeply rooted in Hindu traditions and arts.",
+    "etiquette": "Always dress modestly when visiting temples (shoulders and knees covered). Never point your feet at people or religious objects."
+  },
+  "transport": {
+    "getting_around": "Walking is best for the center. For outskirts, use local drivers or rent a motorbike.",
+    "airport": "Ngurah Rai International Airport (DPS) is about 1.5-2 hours away by car."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": null,
+    "foreign_nationals": null
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": null
+  },
+  "weather": {
+    "best_time_to_visit": "April to October (Dry Season).",
+    "avoid": "January and February (Peak Wet Season)."
+  }
+}

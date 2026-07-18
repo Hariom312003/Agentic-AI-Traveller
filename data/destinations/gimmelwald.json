@@ -1,0 +1,319 @@
+{
+  "destination": "Gimmelwald",
+  "attractions": [
+    {
+      "name": "Schwarzmönch",
+      "category": "attraction",
+      "description": "A massive, dramatic cliff face known as the 'Black Monk' providing a stunning backdrop to the valley.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "nature",
+        "scenic"
+      ],
+      "latitude": 46.5625,
+      "longitude": 7.8842,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.5625&mlon=7.8842#map=14/46.5625/7.8842"
+    },
+    {
+      "name": "Schilthorn Summit",
+      "category": "attraction",
+      "description": "High-altitude summit offering panoramic views of the Bernese Alps, accessible via cable car from Gimmelwald.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "mountain",
+        "viewpoint"
+      ],
+      "latitude": 46.557,
+      "longitude": 7.833,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.557&mlon=7.833#map=15/46.557/7.833"
+    },
+    {
+      "name": "Birg Cable Car Station",
+      "category": "attraction",
+      "description": "Intermediate station on the way to Schilthorn, known for its cliff walk and dramatic mountain views.",
+      "recommended_duration": "1 hour",
+      "budget_category": null,
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "viewpoint",
+        "adventure"
+      ],
+      "latitude": 46.564,
+      "longitude": 7.854,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.564&mlon=7.854#map=15/46.564/7.854"
+    },
+    {
+      "name": "Allmendhubel",
+      "category": "attraction",
+      "description": "A scenic mountain ridge above Mürren, accessible by funicular, offering flower trails and playgrounds.",
+      "recommended_duration": "2 hours",
+      "budget_category": null,
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "hiking",
+        "scenic"
+      ],
+      "latitude": 46.563,
+      "longitude": 7.888,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.563&mlon=7.888#map=15/46.563/7.888"
+    },
+    {
+      "name": "Winteregg",
+      "category": "attraction",
+      "description": "A beautiful plateau area between Grütschalp and Mürren with excellent views of the Eiger, Mönch, and Jungfrau.",
+      "recommended_duration": "1-2 hours",
+      "budget_category": null,
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "nature",
+        "hiking"
+      ],
+      "latitude": 46.571,
+      "longitude": 7.898,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.571&mlon=7.898#map=15/46.571/7.898"
+    },
+    {
+      "name": "Staubbach Falls",
+      "category": "attraction",
+      "description": "Iconic waterfall in Lauterbrunnen that plunges nearly 300 meters from a hanging valley.",
+      "recommended_duration": "30 minutes",
+      "budget_category": null,
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "nature",
+        "waterfall"
+      ],
+      "latitude": 46.596,
+      "longitude": 7.908,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.596&mlon=7.908#map=15/46.596/7.908"
+    },
+    {
+      "name": "Trümmelbach Falls",
+      "category": "attraction",
+      "description": "A series of ten glacier-fed waterfalls inside the mountain, accessible via a tunnel lift.",
+      "recommended_duration": "1-2 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "nature",
+        "geology"
+      ],
+      "latitude": 46.573,
+      "longitude": 7.912,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.573&mlon=7.912#map=15/46.573/7.912"
+    },
+    {
+      "name": "Jungfraujoch",
+      "category": "attraction",
+      "description": "The 'Top of Europe' railway station, offering a high-alpine experience with ice palaces and glacier views.",
+      "recommended_duration": "4-6 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [
+        "mountain",
+        "adventure"
+      ],
+      "latitude": 46.547,
+      "longitude": 7.985,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.547&mlon=7.985#map=15/46.547/7.985"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Mountain Hostel Restaurant",
+      "category": "food",
+      "description": "Rustic dining spot in Gimmelwald, open to non-residents, serving hearty local fare.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "local",
+        "hostel"
+      ],
+      "latitude": 46.558,
+      "longitude": 7.891,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.558&mlon=7.891#map=19/46.558/7.891"
+    },
+    {
+      "name": "Pension Gimmelwald Restaurant",
+      "category": "food",
+      "description": "Traditional chalet-style restaurant offering authentic Swiss cuisine with valley views.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "traditional",
+        "chalet"
+      ],
+      "latitude": 46.558,
+      "longitude": 7.892,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.558&mlon=7.892#map=19/46.558/7.892"
+    },
+    {
+      "name": "Gimmeln Restaurant",
+      "category": "food",
+      "description": "Mountain restaurant located on the hiking trail between Gimmelwald and Schilthorn.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "hiking",
+        "mountain"
+      ],
+      "latitude": 46.554,
+      "longitude": 7.872,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.554&mlon=7.872#map=16/46.554/7.872"
+    },
+    {
+      "name": "Schiltalp Restaurant",
+      "category": "food",
+      "description": "A remote alpine hut serving refreshments to hikers on the way to the Schilthorn ridge.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "alpine",
+        "hiking"
+      ],
+      "latitude": 46.555,
+      "longitude": 7.858,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.555&mlon=7.858#map=16/46.555/7.858"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Tanzbödeli",
+      "category": "attraction",
+      "description": "A glacial cirque and plateau offering a unique, quiet vantage point over the Lauterbrunnen valley.",
+      "recommended_duration": "4 hours",
+      "budget_category": null,
+      "tags": [
+        "hiking",
+        "nature"
+      ],
+      "latitude": 46.551,
+      "longitude": 7.905,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.551&mlon=7.905#map=15/46.551/7.905"
+    },
+    {
+      "name": "Oberhornsee",
+      "category": "attraction",
+      "description": "A picturesque, secluded alpine lake nestled in meadows, accessible via a challenging hike.",
+      "recommended_duration": "5 hours",
+      "budget_category": null,
+      "tags": [
+        "hiking",
+        "nature"
+      ],
+      "latitude": 46.542,
+      "longitude": 7.925,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.542&mlon=7.925#map=15/46.542/7.925"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Mountain Hostel Bar",
+      "category": "nightlife",
+      "description": "The primary social hub in Gimmelwald, offering a relaxed atmosphere for hikers and travelers.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "bar",
+        "social"
+      ],
+      "latitude": 46.558,
+      "longitude": 7.891,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.558&mlon=7.891#map=19/46.558/7.891"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Mürren Village Shops",
+      "category": "shopping",
+      "description": "The nearest hub for groceries, sports equipment, and souvenirs, located 3km uphill.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [
+        "shopping",
+        "convenience"
+      ],
+      "latitude": 46.559,
+      "longitude": 7.893,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.559&mlon=7.893#map=16/46.559/7.893"
+    }
+  ],
+  "festivals": [],
+  "adventure_activities": [
+    {
+      "name": "Via Ferrata Mürren-Gimmelwald",
+      "category": "adventure",
+      "description": "A thrilling mountain climbing route that descends from Mürren to Gimmelwald with spectacular exposure.",
+      "recommended_duration": "3 hours",
+      "budget_category": "moderate",
+      "tags": [
+        "climbing",
+        "adventure"
+      ],
+      "latitude": 46.562,
+      "longitude": 7.894,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=46.562&mlon=7.894#map=15/46.562/7.894"
+    }
+  ],
+  "local_tips": [
+    "Buy fresh Alpkäse (alpine cheese) and yoghurt directly from local farmers in Gimmelwald.",
+    "Drink freely from the public water troughs; the mountain water is fresh and safe.",
+    "Gimmelwald is car-free; use the Stechelberg cable car to arrive.",
+    "Check the weather frequently; conditions can change rapidly on the Schilthorn ascent."
+  ],
+  "safety": {
+    "general": "Mountain weather is unpredictable; always carry appropriate gear even in summer.",
+    "water_safety": "Public troughs provide safe, fresh drinking water.",
+    "transport_safety": "Ensure you catch the last cable car or bus connection, as late-night options are limited."
+  },
+  "culture": {
+    "overview": "Gimmelwald is a traditional, quiet farming hamlet with a strong emphasis on preserving Alpine heritage.",
+    "etiquette": "Respect private farm land and keep to marked hiking trails. Always close gates behind you if passing through pastures."
+  },
+  "transport": {
+    "getting_around": "The village is small enough to walk everywhere. Access to Mürren is via a 30-minute walk or the cable car.",
+    "airport": null
+  },
+  "visa_information": {
+    "domestic_indian_travellers": null,
+    "foreign_nationals": null
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": null
+  },
+  "weather": {
+    "best_time_to_visit": "Summer (June to September) for hiking, winter for skiing.",
+    "avoid": null
+  }
+}

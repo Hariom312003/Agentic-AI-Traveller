@@ -1,0 +1,225 @@
+{
+  "destination": "Paris",
+  "attractions": [
+    {
+      "name": "Eiffel Tower",
+      "category": "attraction",
+      "description": "Paris's iron-lattice icon, built for the 1889 World's Fair, with observation decks up to the top offering sweeping city views.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range to high (higher levels cost more)",
+      "best_time": "Early morning or after sunset for lights",
+      "transport_tips": "Bir-Hakeim or Trocadéro Metro stations",
+      "tags": ["iconic", "viewpoint", "photography"]
+    },
+    {
+      "name": "Louvre Museum",
+      "category": "culture",
+      "description": "The world's most-visited museum, home to the Mona Lisa, the Venus de Milo, and an immense collection spanning ancient to 19th-century art.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Mid-range entry",
+      "best_time": "Weekday morning, book timed entry online",
+      "transport_tips": "Palais-Royal–Musée du Louvre Metro station",
+      "tags": ["museum", "art", "history"]
+    },
+    {
+      "name": "Notre-Dame Cathedral",
+      "category": "culture",
+      "description": "The Gothic masterpiece on Île de la Cité, reopened to visitors in December 2024 after a multi-year restoration following the 2019 fire.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Free entry to the cathedral (towers/crypt extra)",
+      "best_time": "Morning to avoid queues",
+      "transport_tips": "Cité or Saint-Michel Metro/RER station",
+      "tags": ["cathedral", "gothic", "history"]
+    },
+    {
+      "name": "Montmartre & Sacré-Cœur",
+      "category": "culture",
+      "description": "A hilltop hilltop village of cobbled streets, artist squares (Place du Tertre), and the white-domed Sacré-Cœur Basilica with panoramic city views.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free (basilica dome climb extra)",
+      "best_time": "Late afternoon",
+      "transport_tips": "Anvers Metro station + funicular, or Abbesses station",
+      "tags": ["viewpoint", "art", "history"]
+    },
+    {
+      "name": "Musée d'Orsay",
+      "category": "culture",
+      "description": "A former railway station turned museum, holding the world's largest collection of Impressionist and Post-Impressionist masterpieces.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range entry",
+      "best_time": "Thursday evening (late opening, fewer crowds)",
+      "transport_tips": "Musée d'Orsay RER station",
+      "tags": ["museum", "impressionism", "art"]
+    },
+    {
+      "name": "Champs-Élysées & Arc de Triomphe",
+      "category": "attraction",
+      "description": "The grand boulevard running from Place de la Concorde to the Arc de Triomphe, lined with flagship boutiques, cafes, and cinemas.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Free (arc climb + shopping extra)",
+      "best_time": "Evening for lit-up views",
+      "transport_tips": "Charles de Gaulle–Étoile Metro station",
+      "tags": ["shopping", "iconic", "walk"]
+    },
+    {
+      "name": "Seine River Cruise",
+      "category": "attraction",
+      "description": "A relaxed boat cruise past Notre-Dame, the Louvre, and the Eiffel Tower — a classic way to see the city's landmarks from the water.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Mid-range",
+      "best_time": "Sunset",
+      "transport_tips": "Departure points near Pont Neuf and Eiffel Tower",
+      "tags": ["cruise", "romantic", "sightseeing"]
+    },
+    {
+      "name": "Palace of Versailles",
+      "category": "culture",
+      "description": "The opulent former royal residence outside Paris, famous for the Hall of Mirrors and vast landscaped gardens — a popular full-day trip.",
+      "recommended_duration": "Full day (incl. travel)",
+      "budget_category": "High",
+      "best_time": "Weekday, early entry",
+      "transport_tips": "RER C train to Versailles Château–Rive Gauche",
+      "tags": ["palace", "day trip", "gardens"]
+    },
+    {
+      "name": "Luxembourg Gardens",
+      "category": "nature",
+      "description": "Elegant formal gardens in the Left Bank surrounding the Luxembourg Palace, popular for picnics, toy sailboats on the pond, and people-watching.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Free entry",
+      "best_time": "Afternoon",
+      "transport_tips": "Odéon or Luxembourg RER station",
+      "tags": ["garden", "relaxed", "picnic"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Le Comptoir du Relais, Saint-Germain",
+      "category": "food",
+      "description": "A celebrated bistro known for classic French dishes and a lively neighbourhood atmosphere.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Mid-range to high",
+      "tags": ["bistro", "french cuisine"]
+    },
+    {
+      "name": "Marché des Enfants Rouges",
+      "category": "food",
+      "description": "Paris's oldest covered market (in Le Marais) with stalls serving everything from couscous to Japanese bento in a casual food-hall setting.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Budget to mid-range",
+      "tags": ["market", "street food"]
+    },
+    {
+      "name": "Angelina, Rue de Rivoli",
+      "category": "food",
+      "description": "A historic tearoom famous for its ultra-thick hot chocolate and Mont Blanc chestnut pastry.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Mid-range",
+      "tags": ["dessert", "cafe", "historic"]
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Coulée Verte René-Dumont",
+      "category": "nature",
+      "description": "An elevated park built on a disused railway viaduct — the inspiration for New York's High Line — offering a quiet, green walk above the 12th arrondissement's streets.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Free",
+      "tags": ["offbeat", "walk", "park"]
+    },
+    {
+      "name": "Rue Crémieux",
+      "category": "attraction",
+      "description": "A small, colourful pastel-painted residential street near Gare de Lyon, popular for photos but still relatively under the radar.",
+      "recommended_duration": "30 minutes",
+      "budget_category": "Free",
+      "tags": ["photography", "offbeat"]
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Le Marais Bars",
+      "category": "nightlife",
+      "description": "A historic district with a dense concentration of bars, wine cellars, and LGBTQ+-friendly nightlife around Rue Vieille du Temple.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range",
+      "tags": ["bars", "nightlife", "wine"]
+    },
+    {
+      "name": "Moulin Rouge Cabaret",
+      "category": "nightlife",
+      "description": "The legendary Montmartre cabaret known for its can-can revue — book well ahead for dinner-and-show packages.",
+      "recommended_duration": "2.5-3 hours",
+      "budget_category": "High",
+      "tags": ["cabaret", "show", "iconic"]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Le Marais Boutiques",
+      "category": "shopping",
+      "description": "Independent designer boutiques, vintage shops, and concept stores lining the narrow streets of Le Marais.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Mid-range to high",
+      "tags": ["boutique", "fashion"]
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Fête de la Musique",
+      "category": "festival",
+      "description": "A city-wide free music festival with impromptu and organised performances on streets and squares across Paris.",
+      "best_time": "21 June every year",
+      "tags": ["music", "street festival"]
+    },
+    {
+      "name": "Bastille Day",
+      "category": "festival",
+      "description": "France's national day, marked by a military parade on the Champs-Élysées and fireworks at the Eiffel Tower.",
+      "best_time": "14 July",
+      "tags": ["national day", "fireworks", "parade"]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Catacombs of Paris",
+      "category": "adventure",
+      "description": "An underground ossuary beneath the city streets lined with the bones of millions of Parisians — an atmospheric, slightly eerie must for the curious.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Mid-range (book timed entry online)",
+      "tags": ["underground", "history", "offbeat"]
+    }
+  ],
+  "local_tips": [
+    "Get a Navigo Easy or paper carnet of Metro tickets — the Metro is the fastest way around and runs late into the night.",
+    "Many museums are free or discounted on first Sundays of the month, and closed on Mondays or Tuesdays (varies by museum) — check before planning.",
+    "A polite 'Bonjour' when entering any shop or cafe goes a long way with Parisian service.",
+    "Book major sights (Eiffel Tower, Versailles, Louvre) online in advance — queues without a timed ticket can run hours in peak season."
+  ],
+  "safety": {
+    "general": "Paris is generally safe for tourists, but pickpocketing is a real risk in crowded tourist spots (Metro, Eiffel Tower, Montmartre) — keep bags zipped and in front of you.",
+    "scams": "Be wary of petition scams, friendship-bracelet scams near Sacré-Cœur, and unofficial 'gold ring' street scams.",
+    "transport_safety": "Some Metro lines/stations feel less comfortable late at night — stick to well-lit, busier routes after dark."
+  },
+  "culture": {
+    "overview": "Paris takes pride in its art, gastronomy, and café culture; meals are unhurried and dining is treated as an experience, not just refuelling.",
+    "etiquette": "Greet with 'Bonjour/Bonsoir' before asking anything; tipping isn't mandatory (service is included) but rounding up is appreciated."
+  },
+  "transport": {
+    "getting_around": "The Metro, RER, and buses cover the whole city extensively; walking is also very pleasant given how compact central Paris is.",
+    "airport": "Charles de Gaulle (CDG) and Orly (ORY) airports; RER B connects CDG to central Paris."
+  },
+  "visa_information": {
+    "indian_passport_holders": "Indian citizens need a Schengen visa to visit France/Paris — apply well in advance with proof of accommodation and return travel.",
+    "general": "EU/EEA citizens and several other nationalities can enter visa-free for short stays under Schengen rules."
+  },
+  "emergency_contacts": {
+    "police": "17 (or 112 for general EU emergency)",
+    "ambulance": "15 (SAMU) or 112",
+    "tourist_helpline": "Paris Info via en.parisinfo.com for visitor assistance"
+  },
+  "weather": {
+    "best_time_to_visit": "April-June and September-October (mild weather, fewer crowds than peak summer)",
+    "avoid": "August (many local businesses close as Parisians go on holiday) if you want a fully 'local' experience"
+  }
+}

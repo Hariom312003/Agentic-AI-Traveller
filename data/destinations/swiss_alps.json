@@ -1,0 +1,264 @@
+{
+  "destination": "Swiss Alps",
+  "attractions": [
+    {
+      "name": "Jungfraujoch",
+      "category": "attraction",
+      "description": "The 'Top of Europe' featuring an observation terrace and ice palace.",
+      "recommended_duration": "4-6 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.5475,
+      "longitude": 7.9851,
+      "address": "Jungfraujoch, 3823 Lauterbrunnen, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/268579738"
+    },
+    {
+      "name": "Matterhorn",
+      "category": "attraction",
+      "description": "Iconic pyramid-shaped mountain peak on the border between Switzerland and Italy.",
+      "recommended_duration": "Full day",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 45.9763,
+      "longitude": 7.6585,
+      "address": "Zermatt, Switzerland",
+      "map_link": "https://www.openstreetmap.org/way/4102945"
+    },
+    {
+      "name": "Mount Pilatus",
+      "category": "attraction",
+      "description": "Mountain massif overlooking Lucerne, accessible by the world's steepest cogwheel railway.",
+      "recommended_duration": "3-5 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.9772,
+      "longitude": 8.2505,
+      "address": "Pilatus Kulm, 6010 Alpnach, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/268579738"
+    },
+    {
+      "name": "Aletsch Glacier",
+      "category": "attraction",
+      "description": "The largest glacier in the Alps, a UNESCO World Heritage site.",
+      "recommended_duration": "4-5 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.4667,
+      "longitude": 8.05,
+      "address": "Fieschertal, Switzerland",
+      "map_link": "https://www.openstreetmap.org/relation/1684496"
+    },
+    {
+      "name": "Chillon Castle",
+      "category": "attraction",
+      "description": "An island castle located on Lake Geneva, near Montreux.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "moderate",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.4142,
+      "longitude": 6.9292,
+      "address": "Avenue de Chillon 21, 1820 Veytaux, Switzerland",
+      "map_link": "https://www.openstreetmap.org/way/24434283"
+    },
+    {
+      "name": "Lauterbrunnen Valley",
+      "category": "attraction",
+      "description": "A stunning valley known for its 72 waterfalls and dramatic cliffs.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "free",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.5976,
+      "longitude": 7.9082,
+      "address": "Lauterbrunnen, Switzerland",
+      "map_link": "https://www.openstreetmap.org/relation/1682333"
+    },
+    {
+      "name": "St. Moritz",
+      "category": "attraction",
+      "description": "Luxury alpine resort town known for winter sports and high-end lifestyle.",
+      "recommended_duration": "Full day",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 46.4906,
+      "longitude": 9.8355,
+      "address": "St. Moritz, Switzerland",
+      "map_link": "https://www.openstreetmap.org/relation/1682531"
+    },
+    {
+      "name": "Gornergrat Railway",
+      "category": "attraction",
+      "description": "A rack railway that offers spectacular views of the Matterhorn and surrounding glaciers.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "expensive",
+      "best_time": null,
+      "transport_tips": null,
+      "tags": [],
+      "latitude": 45.9792,
+      "longitude": 7.7825,
+      "address": "Zermatt, Switzerland",
+      "map_link": "https://www.openstreetmap.org/way/23328405"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Chez Vrony",
+      "category": "food",
+      "description": "Famous mountain restaurant in Zermatt with organic local food and Matterhorn views.",
+      "recommended_duration": null,
+      "budget_category": "expensive",
+      "tags": [],
+      "latitude": 46.0025,
+      "longitude": 7.7342,
+      "address": "Findeln, 3920 Zermatt, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/254778123"
+    },
+    {
+      "name": "Restaurant 1865",
+      "category": "food",
+      "description": "Fine dining in the heart of the Alps, focusing on Swiss culinary traditions.",
+      "recommended_duration": null,
+      "budget_category": "expensive",
+      "tags": [],
+      "latitude": 46.4901,
+      "longitude": 9.8368,
+      "address": "Via Veglia 1, 7500 St. Moritz, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/543210987"
+    },
+    {
+      "name": "Restaurant Bellevue",
+      "category": "food",
+      "description": "Traditional Swiss cuisine with a focus on fondue and raclette.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": 46.5978,
+      "longitude": 7.9085,
+      "address": "Lauterbrunnen, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/123456789"
+    },
+    {
+      "name": "Le Chalet",
+      "category": "food",
+      "description": "Cozy atmosphere serving authentic alpine dishes in a rustic setting.",
+      "recommended_duration": null,
+      "budget_category": "moderate",
+      "tags": [],
+      "latitude": 46.3982,
+      "longitude": 6.9125,
+      "address": "Montreux, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/987654321"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Valle Verzasca",
+      "category": "attraction",
+      "description": "A hidden valley with crystal clear emerald water and ancient stone bridges.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 46.3333,
+      "longitude": 8.8167,
+      "address": "Verzasca, Ticino, Switzerland",
+      "map_link": "https://www.openstreetmap.org/relation/1682431"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Papperla Pub",
+      "category": "nightlife",
+      "description": "The go-to spot for après-ski in Zermatt with live music.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 46.0205,
+      "longitude": 7.7491,
+      "address": "Zermatt, Switzerland",
+      "map_link": "https://www.openstreetmap.org/node/456789123"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Bahnhofstrasse Zermatt",
+      "category": "shopping",
+      "description": "The main street for luxury watches, Swiss chocolates, and high-end outdoor gear.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 46.0201,
+      "longitude": 7.7485,
+      "address": "Zermatt, Switzerland",
+      "map_link": "https://www.openstreetmap.org/way/12345678"
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Montreux Jazz Festival",
+      "category": "festival",
+      "description": "World-renowned music festival held annually on the shores of Lake Geneva.",
+      "best_time": "July",
+      "tags": []
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Paragliding in Interlaken",
+      "category": "adventure",
+      "description": "Experience the Alps from the sky with tandem paragliding flights.",
+      "recommended_duration": null,
+      "budget_category": null,
+      "tags": [],
+      "latitude": 46.6863,
+      "longitude": 7.8632,
+      "address": "Interlaken, Switzerland",
+      "map_link": "https://www.openstreetmap.org/relation/1682330"
+    }
+  ],
+  "local_tips": [
+    "Purchase a Swiss Travel Pass for unlimited travel on trains, buses, and boats.",
+    "Tap water in the Alps is among the purest in the world; bring a reusable bottle.",
+    "Always check weather forecasts before hiking, as conditions change rapidly.",
+    "Tipping is not mandatory but rounding up the bill is appreciated."
+  ],
+  "safety": {
+    "general": "Switzerland is extremely safe, but mountain environments require caution.",
+    "water_safety": "Avoid drinking from glacial streams unless marked as potable.",
+    "transport_safety": "Trains are punctual and safe; always validate your ticket if required."
+  },
+  "culture": {
+    "overview": "Swiss culture is a blend of German, French, and Italian influences with a strong emphasis on punctuality and respect for nature.",
+    "etiquette": "Greet people with a polite 'Grüezi' (in German-speaking regions) and keep noise levels low in public spaces."
+  },
+  "transport": {
+    "getting_around": "The Swiss rail network (SBB) is the most efficient way to travel between mountain towns.",
+    "airport": "Zurich Airport (ZRH) and Geneva Airport (GVA) are the primary gateways."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "Requires a Schengen Visa for entry into Switzerland.",
+    "foreign_nationals": "Check local embassy requirements for Schengen area access."
+  },
+  "emergency_contacts": {
+    "police": "117",
+    "ambulance": "144",
+    "tourist_police_helpline": "112"
+  },
+  "weather": {
+    "best_time_to_visit": "June to September for hiking; December to March for skiing.",
+    "avoid": "November and April (shoulder seasons) when many mountain lifts are closed for maintenance."
+  }
+}

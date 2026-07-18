@@ -1,0 +1,41 @@
+{
+  "_disclaimer": "Illustrative example categories only. Real card names, reward rates, and offers change frequently and vary by issuer/country — this file is a placeholder structure for the Rewards Agent, meant to be replaced with a live card-comparison data source or the user's own curated list before any of this is treated as real financial guidance.",
+  "categories": [
+    {
+      "category": "Flight Bookings",
+      "instrument": "Travel rewards credit card (example)",
+      "typical_benefit": "Airline miles or points per unit spent on flight bookings, often 2-5x on travel category spend",
+      "notes": "Look for cards with no foreign transaction fees for international trips"
+    },
+    {
+      "category": "Hotel Bookings",
+      "instrument": "Co-branded hotel credit card (example)",
+      "typical_benefit": "Elite night credits and bonus points per stay, sometimes a free night after a spend threshold",
+      "notes": "Booking direct with the hotel chain (not a 3rd-party OTA) usually preserves loyalty benefits"
+    },
+    {
+      "category": "Dining & Food",
+      "instrument": "Cashback/rewards card with dining category bonus (example)",
+      "typical_benefit": "Often 3-5x points/cashback on restaurant spend",
+      "notes": "Some cards cap bonus-category spend per quarter/year"
+    },
+    {
+      "category": "Airport Lounge Access",
+      "instrument": "Premium travel credit card (example)",
+      "typical_benefit": "Complimentary domestic/international lounge visits per year via Priority Pass or issuer network",
+      "notes": "Visit caps and guest policies vary by card tier"
+    },
+    {
+      "category": "Forex / International Spend",
+      "instrument": "Zero forex markup travel card (example)",
+      "typical_benefit": "Avoids the typical 2-3.5% foreign transaction fee most standard cards charge",
+      "notes": "Useful for the whole trip, not just one category"
+    },
+    {
+      "category": "General Shopping",
+      "instrument": "Flat-rate cashback card (example)",
+      "typical_benefit": "1-2% flat cashback with no category restrictions",
+      "notes": "A reasonable default for spend that doesn't fit a bonus category"
+    }
+  ]
+}

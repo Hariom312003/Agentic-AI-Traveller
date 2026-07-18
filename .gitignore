@@ -1,0 +1,38 @@
+# Env / secrets
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Data / generated
+chroma_db/
+data/*.db
+data/*.sqlite
+data/memory.db
+data/checkpoints.sqlite
+data/checkpoints.sqlite-*
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.zip

@@ -1,0 +1,270 @@
+{
+  "destination": "Goa",
+  "attractions": [
+    {
+      "name": "Baga Beach",
+      "category": "attraction",
+      "description": "One of North Goa's busiest beaches, lined with shacks, water sports operators, and a lively promenade. Popular for parasailing, jet-skiing, and banana boat rides by day.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Free entry (activities extra)",
+      "best_time": "Early morning or late afternoon",
+      "transport_tips": "15 min taxi/scooter from Calangute",
+      "tags": ["beach", "watersports", "family"]
+    },
+    {
+      "name": "Calangute Beach",
+      "category": "attraction",
+      "description": "The largest and most crowded beach in North Goa, known as the 'Queen of Beaches', with a long stretch of sand, shacks, and markets nearby.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Free entry",
+      "best_time": "Morning",
+      "transport_tips": "Well connected by local buses and taxis",
+      "tags": ["beach", "shopping", "family"]
+    },
+    {
+      "name": "Fort Aguada",
+      "category": "culture",
+      "description": "A well-preserved 17th-century Portuguese fort and lighthouse overlooking the Arabian Sea at Sinquerim, built to defend against Dutch and Maratha naval attacks.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Low-cost entry ticket",
+      "best_time": "Late afternoon for sunset views",
+      "transport_tips": "Combine with a Sinquerim/Candolim beach visit",
+      "tags": ["fort", "history", "sunset", "photography"]
+    },
+    {
+      "name": "Basilica of Bom Jesus",
+      "category": "culture",
+      "description": "A UNESCO World Heritage Site in Old Goa holding the mortal remains of St. Francis Xavier. One of the finest examples of baroque architecture in India.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free entry",
+      "best_time": "Morning, avoid Sunday mass hours",
+      "transport_tips": "Located in Old Goa, 10km from Panaji",
+      "tags": ["church", "unesco", "history"]
+    },
+    {
+      "name": "Se Cathedral",
+      "category": "culture",
+      "description": "One of the largest churches in Asia, built by the Portuguese in Old Goa, famous for its Golden Bell — one of the best bells in the world.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "Free entry",
+      "best_time": "Morning",
+      "transport_tips": "Walking distance from Basilica of Bom Jesus",
+      "tags": ["church", "unesco", "history"]
+    },
+    {
+      "name": "Chapora Fort",
+      "category": "adventure",
+      "description": "A hilltop laterite fort overlooking Vagator beach and the Chapora river mouth, popular for panoramic sunset views and made famous by the Bollywood film 'Dil Chahta Hai'.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Free entry",
+      "best_time": "Sunset",
+      "transport_tips": "Short uphill walk from Vagator village",
+      "tags": ["fort", "sunset", "viewpoint", "scenic"]
+    },
+    {
+      "name": "Dudhsagar Falls",
+      "category": "nature",
+      "description": "A dramatic four-tiered waterfall on the Mandovi river near the Goa-Karnataka border, reached via a jeep safari through Bhagwan Mahavir Wildlife Sanctuary from Mollem.",
+      "recommended_duration": "Half day (4-5 hours incl. travel)",
+      "budget_category": "Jeep safari + entry fee, mid-range",
+      "best_time": "Post-monsoon (Oct-Jan) for full flow",
+      "transport_tips": "Book a shared or private jeep safari from Mollem",
+      "tags": ["waterfall", "nature", "day trip", "adventure"]
+    },
+    {
+      "name": "Anjuna Flea Market",
+      "category": "shopping",
+      "description": "A legendary Wednesday flea market since the hippie era of the 1960s, selling textiles, jewellery, souvenirs, and Goan handicrafts.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free entry (bargaining expected)",
+      "best_time": "Wednesday mornings",
+      "transport_tips": "Only operates on Wednesdays",
+      "tags": ["market", "shopping", "culture"]
+    },
+    {
+      "name": "Mangeshi Temple",
+      "category": "culture",
+      "description": "One of Goa's oldest and most revered Hindu temples, dedicated to Lord Manguesh (a form of Shiva), located in Priol, Ponda.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free entry",
+      "best_time": "Morning",
+      "transport_tips": "Best visited by car/taxi from Panaji, ~25 min",
+      "tags": ["temple", "spiritual", "culture"]
+    },
+    {
+      "name": "Palolem Beach",
+      "category": "attraction",
+      "description": "A calm, crescent-shaped South Goa beach fringed with palm trees, far quieter than North Goa's beaches, popular for kayaking and dolphin-spotting boat trips.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Free entry",
+      "best_time": "Morning or sunset",
+      "transport_tips": "~40 km south of Margao",
+      "tags": ["beach", "relaxed", "nature"]
+    },
+    {
+      "name": "Fontainhas (Latin Quarter)",
+      "category": "culture",
+      "description": "Panaji's old Latin Quarter, a maze of narrow lanes lined with pastel-painted Portuguese-era houses, art galleries, and cafes.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Free (walking)",
+      "best_time": "Late afternoon",
+      "transport_tips": "Walkable within Panaji city",
+      "tags": ["heritage", "photography", "walk"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Fisherman's Wharf, Cavelossim",
+      "category": "food",
+      "description": "Riverside restaurant known for authentic Goan seafood thalis, prawn curry, and live crab preparations.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Mid-range",
+      "tags": ["seafood", "goan cuisine"]
+    },
+    {
+      "name": "Vinayak Family Restaurant, Assagao",
+      "category": "food",
+      "description": "A local favourite for Goan fish thali and home-style curries, popular with both tourists and locals.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Budget",
+      "tags": ["local food", "thali"]
+    },
+    {
+      "name": "Gunpowder, Assagao",
+      "category": "food",
+      "description": "A leafy, garden-set restaurant specialising in South Indian and Kerala-style dishes alongside Goan specials.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Mid-range",
+      "tags": ["south indian", "brunch"]
+    },
+    {
+      "name": "Curlies Beach Shack, Anjuna",
+      "category": "food",
+      "description": "An iconic beach shack on Anjuna beach serving seafood and cocktails with live music evenings.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Mid-range",
+      "tags": ["beach shack", "nightlife", "seafood"]
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Grande Island",
+      "category": "adventure",
+      "description": "A lesser-known island off Bogmalo, popular with divers for scuba diving trips to see coral and reef fish — far less crowded than the main beaches.",
+      "recommended_duration": "Half day",
+      "budget_category": "Mid-range (dive package)",
+      "tags": ["scuba diving", "island", "offbeat"]
+    },
+    {
+      "name": "Divar Island",
+      "category": "nature",
+      "description": "A peaceful river island reached by a short government ferry from Old Goa, dotted with Portuguese-era villages, paddy fields, and quiet churches — almost no tourist crowds.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free ferry",
+      "tags": ["offbeat", "cycling", "village"]
+    },
+    {
+      "name": "Arpora Saturday Night Market",
+      "category": "shopping",
+      "description": "A lively weekly night bazaar (also called Ingo's Night Market) with live music stages, international food stalls, and boutique stalls — a more atmospheric alternative to Anjuna's daytime market.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Free entry",
+      "best_time": "Saturday evening, Nov-Apr season",
+      "tags": ["night market", "nightlife", "shopping"]
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Tito's Lane, Baga",
+      "category": "nightlife",
+      "description": "Goa's best-known nightlife strip packed with clubs, bars, and lounges, historically anchored by the long-running Tito's nightclub.",
+      "recommended_duration": "2-4 hours",
+      "budget_category": "Mid-range to high (cover charges + drinks)",
+      "tags": ["clubbing", "bars", "music"]
+    },
+    {
+      "name": "Mandovi River Casino Cruises",
+      "category": "nightlife",
+      "description": "Floating casino boats docked on the Mandovi river off Panaji, offering gaming tables, slot machines, and buffet dinners.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "High (entry + gaming)",
+      "tags": ["casino", "cruise", "nightlife"]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Mapusa Municipal Market",
+      "category": "shopping",
+      "description": "A bustling local market for spices, cashews, feni (local cashew liquor), and everyday Goan produce, popular with locals rather than tourists.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Budget",
+      "tags": ["local market", "spices"]
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Goa Carnival",
+      "category": "festival",
+      "description": "A four-day pre-Lent street carnival with parades, floats, music, and dancing across Goa's main towns, led by the legendary King Momo.",
+      "best_time": "February/March (dates vary with the Christian calendar)",
+      "tags": ["carnival", "parade", "culture"]
+    },
+    {
+      "name": "Sunburn Festival",
+      "category": "festival",
+      "description": "One of Asia's largest electronic dance music festivals, held on Candolim/Vagator beach grounds, drawing international DJs.",
+      "best_time": "Late December",
+      "tags": ["music festival", "edm", "nightlife"]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Parasailing at Baga/Calangute",
+      "category": "adventure",
+      "description": "Beach-launched parasailing rides offering aerial views of the North Goa coastline.",
+      "recommended_duration": "20-30 minutes",
+      "budget_category": "Mid-range",
+      "tags": ["watersports", "adrenaline"]
+    },
+    {
+      "name": "Bhagwan Mahavir Wildlife Sanctuary Trek",
+      "category": "adventure",
+      "description": "Forest trails near Mollem through the Western Ghats, home to the Dudhsagar falls trail and diverse birdlife.",
+      "recommended_duration": "Half day",
+      "budget_category": "Budget",
+      "tags": ["trekking", "wildlife", "nature"]
+    }
+  ],
+  "local_tips": [
+    "Rent a scooter for the most flexible way to explore North Goa's beaches; an international driving permit or valid Indian license is required.",
+    "North Goa (Baga, Calangute, Anjuna) is livelier and nightlife-focused; South Goa (Palolem, Agonda) is quieter and more upscale/relaxed.",
+    "Beach shacks are seasonal — most operate October to May and close during the monsoon (June-September).",
+    "Carry cash for small vendors and local markets; card acceptance is inconsistent outside main resorts."
+  ],
+  "safety": {
+    "general": "Goa is generally safe for tourists including solo and female travellers, but exercise standard caution at nightlife venues and avoid swimming during red-flag warnings — rip currents cause fatalities most years.",
+    "water_safety": "Swim only at beaches with lifeguards on duty and heed flag warnings; the Arabian Sea undertow can be strong, especially in monsoon season.",
+    "transport_safety": "Wear a helmet when renting a scooter; traffic enforcement and road conditions vary."
+  },
+  "culture": {
+    "overview": "Goa blends Hindu and Portuguese-Catholic heritage — expect a mix of temple traditions and centuries-old church architecture, plus a laid-back 'susegad' (relaxed) way of life.",
+    "etiquette": "Dress modestly when visiting temples and churches (cover shoulders/knees); beachwear is fine on the beach itself but not in town centres."
+  },
+  "transport": {
+    "getting_around": "Scooters and taxis are the main way to get around; there's no widespread metro or ride-hailing coverage outside a few apps in Panaji. Pre-paid taxi counters exist at the airport.",
+    "airport": "Goa is served by Dabolim Airport (GOI) near Vasco da Gama and the newer Manohar International Airport (GOX) at Mopa in North Goa."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "No visa needed for Indian citizens — a valid government photo ID is sufficient for hotel check-in.",
+    "foreign_nationals": "Most foreign visitors need a valid Indian visa (e-Visa available for many nationalities) obtained before arrival."
+  },
+  "emergency_contacts": {
+    "police": "100",
+    "ambulance": "108",
+    "tourist_police_helpline": "1364 (Goa Tourism 24x7 helpline)"
+  },
+  "weather": {
+    "best_time_to_visit": "November to February (cool, dry season)",
+    "avoid": "June to September (heavy monsoon rains, rough seas, many shacks closed)"
+  }
+}

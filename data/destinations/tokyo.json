@@ -1,0 +1,225 @@
+{
+  "destination": "Tokyo",
+  "attractions": [
+    {
+      "name": "Senso-ji Temple",
+      "category": "culture",
+      "description": "Tokyo's oldest and most famous Buddhist temple in Asakusa, approached via the Kaminarimon 'Thunder Gate' and a bustling shopping street, Nakamise-dori.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Free entry",
+      "best_time": "Early morning to avoid crowds",
+      "transport_tips": "Asakusa Station (Ginza/Asakusa lines)",
+      "tags": ["temple", "history", "shopping street"]
+    },
+    {
+      "name": "Shibuya Crossing",
+      "category": "attraction",
+      "description": "The world-famous scramble crossing outside Shibuya Station, where hundreds cross in every direction at once — best viewed from a nearby cafe or the Shibuya Sky observation deck.",
+      "recommended_duration": "30-60 minutes",
+      "budget_category": "Free (observation decks extra)",
+      "best_time": "Evening for neon lights",
+      "transport_tips": "Shibuya Station, multiple lines",
+      "tags": ["iconic", "photography", "urban"]
+    },
+    {
+      "name": "Meiji Shrine",
+      "category": "culture",
+      "description": "A serene Shinto shrine dedicated to Emperor Meiji, set within a forested park near Harajuku — a peaceful contrast to the surrounding city.",
+      "recommended_duration": "1.5 hours",
+      "budget_category": "Free entry",
+      "best_time": "Morning",
+      "transport_tips": "Harajuku or Meiji-jingumae Station",
+      "tags": ["shrine", "nature", "peaceful"]
+    },
+    {
+      "name": "Tokyo Skytree",
+      "category": "attraction",
+      "description": "One of the world's tallest towers, with two observation decks offering panoramic views across the Kanto region on clear days.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Mid-range entry ticket",
+      "best_time": "Sunset for day-to-night views",
+      "transport_tips": "Tokyo Skytree Station or Oshiage Station",
+      "tags": ["viewpoint", "iconic", "photography"]
+    },
+    {
+      "name": "Akihabara",
+      "category": "shopping",
+      "description": "Tokyo's electronics and otaku-culture district, packed with multi-storey electronics stores, anime and manga shops, and retro arcades.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Budget to high (window shopping free)",
+      "best_time": "Afternoon",
+      "transport_tips": "Akihabara Station",
+      "tags": ["electronics", "anime", "shopping"]
+    },
+    {
+      "name": "Tsukiji Outer Market",
+      "category": "food",
+      "description": "The bustling street-food and retail market that remains at Tsukiji after the wholesale fish auctions moved to Toyosu — famous for fresh sushi breakfasts and street snacks.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Budget to mid-range",
+      "best_time": "Early morning",
+      "transport_tips": "Tsukiji Station",
+      "tags": ["food market", "sushi", "street food"]
+    },
+    {
+      "name": "Shinjuku Gyoen National Garden",
+      "category": "nature",
+      "description": "A large landscaped park blending Japanese, French, and English garden styles — a favourite cherry blossom viewing spot in spring.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Low-cost entry",
+      "best_time": "Spring (cherry blossoms) or autumn (foliage)",
+      "transport_tips": "Shinjuku-gyoenmae Station",
+      "tags": ["park", "nature", "cherry blossoms"]
+    },
+    {
+      "name": "teamLab Digital Art Museum",
+      "category": "attraction",
+      "description": "An immersive digital art experience of large-scale, interactive light and projection installations — hugely popular, advance timed tickets recommended.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range to high",
+      "best_time": "Weekday, first entry slot",
+      "transport_tips": "Check current venue location and book tickets online in advance",
+      "tags": ["digital art", "immersive", "photography"]
+    },
+    {
+      "name": "Harajuku Takeshita Street",
+      "category": "shopping",
+      "description": "A colourful, crowded street famous for youth fashion, crepe stands, and quirky boutique shops.",
+      "recommended_duration": "1-1.5 hours",
+      "budget_category": "Budget to mid-range",
+      "best_time": "Afternoon",
+      "transport_tips": "Harajuku Station",
+      "tags": ["fashion", "street food", "youth culture"]
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Ichiran Ramen (chain, multiple branches)",
+      "category": "food",
+      "description": "A famous tonkotsu ramen chain known for individual booth seating and a rich, customizable pork-broth ramen.",
+      "recommended_duration": "45 minutes",
+      "budget_category": "Budget",
+      "tags": ["ramen", "solo dining"]
+    },
+    {
+      "name": "Omoide Yokocho, Shinjuku",
+      "category": "food",
+      "description": "A nostalgic, lantern-lit alley of tiny yakitori and izakaya stalls tucked beside Shinjuku Station, dating back to the post-war era.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Mid-range",
+      "tags": ["yakitori", "izakaya", "nightlife"]
+    },
+    {
+      "name": "Depachika Food Halls (department store basements)",
+      "category": "food",
+      "description": "Basement-level gourmet food halls in major department stores like Isetan or Takashimaya, offering high-quality bento, sweets, and prepared dishes.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Mid-range",
+      "tags": ["bento", "gourmet", "takeaway"]
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Yanaka Ginza",
+      "category": "culture",
+      "description": "An old-Tokyo shopping street in the Yanaka district that survived WWII bombing, retaining a nostalgic, low-rise Showa-era atmosphere far from the tourist crowds.",
+      "recommended_duration": "1.5-2 hours",
+      "budget_category": "Budget",
+      "tags": ["offbeat", "old town", "photography"]
+    },
+    {
+      "name": "Nezu Shrine",
+      "category": "culture",
+      "description": "A beautiful, lesser-visited shrine known for its tunnel of vermilion torii gates and azalea garden — often compared to Kyoto's Fushimi Inari at a fraction of the crowd.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free entry",
+      "tags": ["shrine", "offbeat", "photography"]
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Golden Gai, Shinjuku",
+      "category": "nightlife",
+      "description": "A warren of over 200 tiny, atmospheric bars packed into narrow alleys, each seating only a handful of people — a quintessential Tokyo nightlife experience.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Mid-range (some bars charge a seating fee)",
+      "tags": ["bars", "nightlife", "atmospheric"]
+    },
+    {
+      "name": "Roppongi",
+      "category": "nightlife",
+      "description": "Tokyo's international nightlife hub with clubs, lounge bars, and the Mori Art Museum/Tokyo City View observation deck.",
+      "recommended_duration": "2-4 hours",
+      "budget_category": "Mid-range to high",
+      "tags": ["clubbing", "bars", "art"]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Ginza",
+      "category": "shopping",
+      "description": "Tokyo's upscale shopping district with flagship luxury stores, department stores, and elegant cafes.",
+      "recommended_duration": "2 hours",
+      "budget_category": "High",
+      "tags": ["luxury", "department stores"]
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Cherry Blossom (Hanami) Season",
+      "category": "festival",
+      "description": "Parks across Tokyo (Ueno, Shinjuku Gyoen, Meguro River) fill with picnickers under blooming sakura trees.",
+      "best_time": "Late March to early April (dates shift yearly with bloom forecasts)",
+      "tags": ["sakura", "seasonal", "picnic"]
+    },
+    {
+      "name": "Sanja Matsuri",
+      "category": "festival",
+      "description": "One of Tokyo's largest and liveliest Shinto festivals, held around Asakusa Shrine with mikoshi (portable shrine) processions.",
+      "best_time": "Mid-May",
+      "tags": ["matsuri", "shinto", "parade"]
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Mount Takao Day Hike",
+      "category": "adventure",
+      "description": "A popular, accessible mountain hike (with cable car option) about an hour from central Tokyo, with temple stops and city views from the summit.",
+      "recommended_duration": "Half day",
+      "budget_category": "Budget",
+      "tags": ["hiking", "nature", "day trip"]
+    }
+  ],
+  "local_tips": [
+    "Get a Suica or Pasmo IC card immediately on arrival for seamless travel on trains, buses, and even convenience store payments.",
+    "Most restaurants and vending machines still favour cash, though card/IC payment acceptance has grown significantly.",
+    "Trains stop running around midnight to 1am — plan late nights around the last-train time or budget for a taxi.",
+    "Tipping is not customary in Japan and can even cause confusion — service charges, if any, are included in the bill."
+  ],
+  "safety": {
+    "general": "Tokyo is among the safest major cities in the world for tourists, including solo and female travellers, with very low street crime.",
+    "natural_hazards": "Japan is earthquake-prone; familiarize yourself with hotel emergency exits and the NHK World app for alerts.",
+    "emergency_language": "English signage is common in central Tokyo and on trains, but less so in smaller local eateries."
+  },
+  "culture": {
+    "overview": "Tokyo blends centuries-old Shinto/Buddhist tradition with cutting-edge pop culture and technology, and places a strong cultural emphasis on politeness, punctuality, and public order.",
+    "etiquette": "Avoid eating while walking in crowded areas, don't speak loudly on trains, and bow lightly as a greeting; remove shoes when a genkan (entryway) is present."
+  },
+  "transport": {
+    "getting_around": "An extensive train and subway network (JR + Tokyo Metro + Toei) covers almost everywhere; a Suica/Pasmo IC card works across all of them.",
+    "airport": "Narita and Haneda airports; Haneda is closer to central Tokyo via the Tokyo Monorail or Keikyu line."
+  },
+  "visa_information": {
+    "indian_passport_holders": "Indian citizens generally need a visa for Japan, though eligible frequent travellers can apply for a multiple-entry visa; check current requirements before booking.",
+    "general": "Many other nationalities (US, EU, UK, etc.) enjoy visa-free short-stay entry — verify based on passport."
+  },
+  "emergency_contacts": {
+    "police": "110",
+    "ambulance_fire": "119",
+    "japan_visitor_hotline": "050-3816-2787 (Japan National Tourism Organization, 24/7 multilingual)"
+  },
+  "weather": {
+    "best_time_to_visit": "March-May (spring, cherry blossoms) and September-November (autumn foliage)",
+    "avoid": "Mid-June to July (rainy season/tsuyu) and peak summer humidity in August"
+  }
+}

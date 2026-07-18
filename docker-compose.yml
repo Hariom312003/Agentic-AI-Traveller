@@ -1,0 +1,45 @@
+services:
+  api:
+    build:
+      context: .
+      target: api
+    ports:
+      - "8010:8000"
+    env_file:
+      - .env
+    environment:
+      - CHROMA_DB_PATH=/app/chroma_db
+      - MEMORY_DB_PATH=/app/data/memory.db
+      - CHECKPOINT_DB_PATH=/app/data/checkpoints.sqlite
+      - CORS_ORIGINS=http://localhost:8501,http://ui:8501
+    volumes:
+      - ai_traveller_chroma:/app/chroma_db
+      - ai_traveller_data:/app/data
+      - ai_traveller_logs:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    restart: unless-stopped
+
+  ui:
+    build:
+      context: .
+      target: ui
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      - API_BASE_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  ai_traveller_chroma:
+  ai_traveller_data:
+  ai_traveller_logs:

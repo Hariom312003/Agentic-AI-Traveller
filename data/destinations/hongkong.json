@@ -1,0 +1,264 @@
+{
+  "destination": "hongkong",
+  "attractions": [
+    {
+      "name": "Victoria Peak",
+      "category": "attraction",
+      "description": "The highest point on Hong Kong Island offering panoramic views of the skyline and harbor.",
+      "recommended_duration": "2-3 hours",
+      "budget_category": "Moderate",
+      "best_time": "Sunset",
+      "transport_tips": "Take the Peak Tram from Garden Road.",
+      "tags": [],
+      "latitude": 22.2759,
+      "longitude": 114.1455,
+      "address": "The Peak, Hong Kong",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2759&mlon=114.1455"
+    },
+    {
+      "name": "Tian Tan Buddha",
+      "category": "attraction",
+      "description": "A massive bronze statue of Buddha located on Lantau Island.",
+      "recommended_duration": "4 hours",
+      "budget_category": "Moderate",
+      "best_time": "Morning",
+      "transport_tips": "Take the Ngong Ping 360 cable car.",
+      "tags": [],
+      "latitude": 22.2538,
+      "longitude": 113.905,
+      "address": "Ngong Ping, Lantau Island",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2538&mlon=113.9050"
+    },
+    {
+      "name": "Man Mo Temple",
+      "category": "attraction",
+      "description": "A historic temple dedicated to the gods of literature and war, famous for its giant incense coils.",
+      "recommended_duration": "1 hour",
+      "budget_category": "Free",
+      "best_time": "Mid-morning",
+      "transport_tips": "Located in Sheung Wan, accessible by MTR.",
+      "tags": [],
+      "latitude": 22.2842,
+      "longitude": 114.151,
+      "address": "124-126 Hollywood Rd, Sheung Wan",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2842&mlon=114.1510"
+    },
+    {
+      "name": "Star Ferry",
+      "category": "attraction",
+      "description": "Iconic ferry service crossing Victoria Harbour between Tsim Sha Tsui and Central.",
+      "recommended_duration": "15 minutes",
+      "budget_category": "Cheap",
+      "best_time": "Evening",
+      "transport_tips": "Use the Octopus card for payment.",
+      "tags": [],
+      "latitude": 22.293,
+      "longitude": 114.169,
+      "address": "Tsim Sha Tsui Pier, Kowloon",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2930&mlon=114.1690"
+    },
+    {
+      "name": "Hong Kong Museum of History",
+      "category": "attraction",
+      "description": "Comprehensive exhibits covering the history and development of Hong Kong.",
+      "recommended_duration": "3 hours",
+      "budget_category": "Cheap",
+      "best_time": "Weekday afternoon",
+      "transport_tips": "Short walk from Tsim Sha Tsui MTR station.",
+      "tags": [],
+      "latitude": 22.3015,
+      "longitude": 114.176,
+      "address": "100 Chatham Rd S, Tsim Sha Tsui",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.3015&mlon=114.1760"
+    },
+    {
+      "name": "Ocean Park",
+      "category": "attraction",
+      "description": "A marine-themed amusement park with rides and animal exhibits.",
+      "recommended_duration": "Full day",
+      "budget_category": "Expensive",
+      "best_time": "Weekdays",
+      "transport_tips": "Take the MTR South Island Line to Ocean Park Station.",
+      "tags": [],
+      "latitude": 22.247,
+      "longitude": 114.169,
+      "address": "Wong Chuk Hang, Hong Kong",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2470&mlon=114.1690"
+    },
+    {
+      "name": "Dragon's Back",
+      "category": "attraction",
+      "description": "A popular hiking trail offering stunning coastal views of the South China Sea.",
+      "recommended_duration": "3-4 hours",
+      "budget_category": "Free",
+      "best_time": "Early morning",
+      "transport_tips": "Take bus 9 from Shau Kei Wan MTR.",
+      "tags": [],
+      "latitude": 22.245,
+      "longitude": 114.24,
+      "address": "Shek O Rd, Hong Kong",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2450&mlon=114.2400"
+    },
+    {
+      "name": "Hong Kong Disneyland",
+      "category": "attraction",
+      "description": "The Disney theme park located on Lantau Island.",
+      "recommended_duration": "Full day",
+      "budget_category": "Expensive",
+      "best_time": "Weekdays",
+      "transport_tips": "Take the MTR Disneyland Resort Line.",
+      "tags": [],
+      "latitude": 22.313,
+      "longitude": 114.041,
+      "address": "Penny's Bay, Lantau Island",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.3130&mlon=114.0410"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Tim Ho Wan",
+      "category": "food",
+      "description": "Famous Michelin-starred dim sum restaurant known for its baked BBQ pork buns.",
+      "recommended_duration": null,
+      "budget_category": "Cheap",
+      "tags": [],
+      "latitude": 22.284,
+      "longitude": 114.158,
+      "address": "Shop 12A, Hong Kong Station, Central",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2840&mlon=114.1580"
+    },
+    {
+      "name": "Mak's Noodle",
+      "category": "food",
+      "description": "Renowned for traditional wonton noodles in a small, authentic setting.",
+      "recommended_duration": null,
+      "budget_category": "Cheap",
+      "tags": [],
+      "latitude": 22.283,
+      "longitude": 114.154,
+      "address": "77 Wellington St, Central",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2830&mlon=114.1540"
+    },
+    {
+      "name": "Lung King Heen",
+      "category": "food",
+      "description": "High-end Cantonese dining at the Four Seasons Hotel with harbor views.",
+      "recommended_duration": null,
+      "budget_category": "Expensive",
+      "tags": [],
+      "latitude": 22.286,
+      "longitude": 114.159,
+      "address": "8 Finance St, Central",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2860&mlon=114.1590"
+    },
+    {
+      "name": "Yat Lok Roast Goose",
+      "category": "food",
+      "description": "Famous for its crispy-skinned roast goose and traditional Hong Kong style meats.",
+      "recommended_duration": null,
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 22.282,
+      "longitude": 114.156,
+      "address": "34-38 Stanley St, Central",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2820&mlon=114.1560"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Ping Shan Heritage Trail",
+      "category": "attraction",
+      "description": "A walk through historic walled villages and ancestral halls in the New Territories.",
+      "recommended_duration": "3 hours",
+      "budget_category": "Free",
+      "tags": [],
+      "latitude": 22.445,
+      "longitude": 114.005,
+      "address": "Ping Shan, Yuen Long",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.4450&mlon=114.0050"
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Lan Kwai Fong",
+      "category": "nightlife",
+      "description": "The premier nightlife district in Central, packed with bars, clubs, and restaurants.",
+      "recommended_duration": "4 hours",
+      "budget_category": "Moderate",
+      "tags": [],
+      "latitude": 22.281,
+      "longitude": 114.156,
+      "address": "Lan Kwai Fong, Central",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2810&mlon=114.1560"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Temple Street Night Market",
+      "category": "shopping",
+      "description": "A bustling street market in Yau Ma Tei featuring souvenirs, clothes, and street food.",
+      "recommended_duration": "2 hours",
+      "budget_category": "Cheap",
+      "tags": [],
+      "latitude": 22.306,
+      "longitude": 114.17,
+      "address": "Temple St, Yau Ma Tei",
+      "map_link": "https://www.openstreetmap.org/?mlat=22.3060&mlon=114.1700"
+    }
+  ],
+  "festivals": [
+    {
+      "name": "Lunar New Year",
+      "category": "festival",
+      "description": "The biggest festival in Hong Kong with fireworks and parades.",
+      "best_time": "January or February",
+      "tags": []
+    }
+  ],
+  "adventure_activities": [
+    {
+      "name": "Dragon's Back Hike",
+      "category": "adventure",
+      "description": "A scenic ridge hike overlooking the coast.",
+      "recommended_duration": "3 hours",
+      "budget_category": "Free",
+      "tags": [],
+      "latitude": 22.245,
+      "longitude": 114.24,
+      "address": null,
+      "map_link": "https://www.openstreetmap.org/?mlat=22.2450&mlon=114.2400"
+    }
+  ],
+  "local_tips": [
+    "Get an Octopus card for all public transport and convenience store payments.",
+    "Tipping is not mandatory but appreciated in high-end restaurants.",
+    "Always carry an umbrella; weather can change quickly.",
+    "Learn basic Cantonese phrases like 'm-goi' (thank you/excuse me)."
+  ],
+  "safety": {
+    "general": "Hong Kong is very safe, but keep an eye on belongings in crowded areas.",
+    "water_safety": "Tap water is generally safe to drink, but many locals boil it first.",
+    "transport_safety": "Public transport is extremely safe and reliable."
+  },
+  "culture": {
+    "overview": "A unique blend of traditional Chinese culture and British colonial history.",
+    "etiquette": "Respect elders, avoid pointing fingers, and keep noise levels low in public transport."
+  },
+  "transport": {
+    "getting_around": "Use the MTR (subway), iconic double-decker buses, and the Star Ferry.",
+    "airport": "Hong Kong International Airport (HKG) is connected to the city by the Airport Express train."
+  },
+  "visa_information": {
+    "domestic_indian_travellers": "Indian nationals must complete a Pre-arrival Registration (PAR) online before traveling.",
+    "foreign_nationals": "Many nationalities enjoy visa-free entry for up to 90 days; check official immigration websites."
+  },
+  "emergency_contacts": {
+    "police": "999",
+    "ambulance": "999",
+    "tourist_police_helpline": "2527 7177"
+  },
+  "weather": {
+    "best_time_to_visit": "October to December (cool, dry, and sunny).",
+    "avoid": "July to September (typhoon season and high humidity)."
+  }
+}
