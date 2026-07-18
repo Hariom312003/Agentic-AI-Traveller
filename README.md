@@ -38,12 +38,12 @@ Render reads the `render.yaml` file in this repository to configure the environm
 1. Log in to **[Streamlit Community Cloud](https://share.streamlit.io/)**.
 2. Click **New app** and connect your GitHub repository `Hariom312003/Agentic-AI-Traveller`.
 3. Configure the app details:
-   * **Main file path**: `frontend/main.py`
+   * **Main file path**: `app.py`
    * **Branch**: `main`
 4. Expand the **Advanced settings** section at the bottom.
 5. In the **Secrets** textbox, define the API URL to connect the frontend to your Render backend:
    ```toml
-   API_BASE_URL = "https://your-deployed-render-url.onrender.com"
+   API_BASE_URL = "https://agentic-ai-traveller.onrender.com"
    ```
 6. Click **Deploy**.
 
