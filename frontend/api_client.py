@@ -17,7 +17,7 @@ import os
 import requests
 
 BASE_URL = os.environ.get("API_BASE_URL", "http://localhost:8000")
-TIMEOUT_SECONDS = 120  # itinerary generation can involve several LLM calls + retries
+TIMEOUT_SECONDS = 240  # itinerary generation can involve several LLM calls + retries
 
 
 class APIError(Exception):
