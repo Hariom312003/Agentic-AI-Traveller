@@ -39,6 +39,10 @@ Hard rules:
 - You MUST schedule the pre-routed verified places exactly as outlined in the "Verified Curated Knowledge Base Skeleton" for each day.
 - Do NOT move places between days, and do NOT repeat places.
 - For each activity, write a specific, descriptive summary, provide estimated cost and duration, and explain why it was selected.
+- You MUST suggest location-wise breakfast, lunch, and dinner options for ALL days:
+  * In the Morning activity description, suggest a specific, real-world Breakfast spot or cafe nearby and a famous food to try.
+  * In the Afternoon activity description, suggest a specific, real-world Lunch spot or cafe nearby and a famous food to try.
+  * In the Evening activity description, suggest a specific, real-world Dinner restaurant and a famous food or must-try specialty.
 - If told there is NO curated knowledge base for this destination, you may use your own world knowledge freely, but schedule real, famous attractions and restaurants (never use generic templates like 'visit a museum' or 'walk downtown').
 - Every day should have at least one activity in morning, afternoon, and evening; night is optional.
 - Respect the traveler's stated budget tier, interests, and pace.
